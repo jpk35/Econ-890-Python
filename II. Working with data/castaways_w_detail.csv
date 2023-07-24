@@ -1,0 +1,763 @@
+season_name,season,full_name,castaway_id,castaway,age,city,state,personality_type,episode,day,order,result,jury_status,original_tribe,swapped_tribe,swapped_tribe_2,merged_tribe,total_votes_received,immunity_idols_won,short_name,date_of_birth,date_of_death,gender,race,ethnicity,occupation
+Survivor: 41,41,Erika Casupanan,594,Erika,32,Toronta,Ontario,ENFP,13,26,18,Sole Survivor,,Luvu,,,Via Kana,0,0,Erika,1989-07-20,,Female,Asian,,Communications Manager
+Survivor: 41,41,Deshawn Radden,601,Deshawn,26,Miami,Florida,ENTP,13,26,17,Runner-up,,Luvu,,,Via Kana,0,0,Deshawn,1995-09-17,,Male,Black,,Medical Student
+Survivor: 41,41,Xander Hastings,597,Xander,20,Chicago,Illinois,INFJ,13,26,16,2nd runner-up,,Yase,,,Via Kana,0,0,Xander,2000-08-11,,Male,,,App Developer
+Survivor: 41,41,Heather Aldret,593,Heather,52,Charleston,South Carolina,ISFJ,13,25,15,15th voted out,8th jury member,Luvu,,,Via Kana,0,0,Heather,1969-03-01,,Female,,,Stay-at-home Mom
+Survivor: 41,41,Ricard Foye,596,Ricard,31,Sedro-Woolley,Washington,ENTJ,13,24,14,14th voted out,7th jury member,Ua,,,Via Kana,1,0,Ricard,1989-12-04,,Male,,Hispanic or Latino,Flight Attendant
+Survivor: 41,41,Danny McCray,599,Danny,33,Frisco,Texas,INFJ,12,23,13,13th voted out,6th jury member,Luvu,,,Via Kana,0,0,Danny,1988-03-10,,Male,Black,,Ex-NFL Player
+Survivor: 41,41,Liana Wallace,608,Liana,20,Washington,D.C.,ESTJ,11,21,12,12th voted out,5th jury member,Yase,,,Via Kana,0,0,Liana,2000-10-25,,Female,Black,Jewish,College Student
+Survivor: 41,41,Shantel Smith,606,Shan,34,Washington,D.C.,ENFJ,10,19,11,11th voted out,4th jury member,Ua,,,Via Kana,0,0,Shan,1987-03-11,,Female,Black,,Pastor
+Survivor: 41,41,Evvie Jagoda,598,Evvie,28,Arlington,Massachusetts,ENFP,9,17,10,10th voted out,3rd jury member,Yase,,,Via Kana,0,0,Evvie,1992-10-26,,Non-binary,White,Jewish,Ph.D. Student
+Survivor: 41,41,Naseer Muttalif,600,Naseer,37,Morgan Hill,California,ESFJ,9,17,9,9th voted out,2nd jury member,Luvu,,,Via Kana,0,0,Naseer,1984-06-21,,Male,Asian,Sri Lankan,Sales Manager
+Survivor: 41,41,Tiffany Seely,604,Tiffany,47,Plainview,New York,ENTP,8,16,8,8th voted out,1st jury member,Yase,,,Via Kana,1,0,Tiffany,1973-12-08,,Female,White,Jewish,Teacher
+Survivor: 41,41,Sydney Segal,605,Sydney,26,Brooklyn,New York,ESTP,7,14,7,7th voted out,,Luvu,,,Via Kana,0,0,Sydney,1995-07-19,,Female,White,Jewish,Law Student
+Survivor: 41,41,Genie Chen,595,Genie,46,Portland,Oregon,ISFP,5,11,6,6th voted out,,Ua,,,,0,0,Genie,1975-03-04,,Female,Asian,,Grocery Clerk
+Survivor: 41,41,Jairus Robinson,603,JD,20,Oklahoma City,Oklahoma,ESFP,4,9,5,5th voted out,,Ua,,,,0,0,JD,2001-03-18,,Male,Black,,College Student
+Survivor: 41,41,Brad Reese,602,Brad,50,Shawnee,Wyoming,ESFP,3,7,4,4th voted out,,Ua,,,,1,0,Brad,1971-07-21,,Male,,,Rancher
+Survivor: 41,41,David Voce,607,Voce,35,Chicago,Illinois,ENTJ,2,5,3,3rd voted out,,Yase,,,,0,0,Voce,1986-05-01,,Male,,,Neurosurgeon
+Survivor: 41,41,Sara Wilson,592,Sara,24,Boston,Massachusetts,INTJ,1,3,2,2nd voted out,,Ua,,,,4,0,Sara,1997-06-28,,Female,,,Healthcare Consultant
+Survivor: 41,41,Eric Abraham,591,Abraham,51,San Antonio,Texas,ESTJ,1,3,1,1st voted out,,Yase,,,,5,0,Abraham,1970-06-10,,Male,Black,,Cyber Security Analyst
+Survivor: Winners at War,40,Tony Vlachos,424,Tony,45,Allendale,New Jersey,ESTP,15,39,22,Sole Survivor,,Dakal,Dakal,,Koru,0,4,Tony,1973-09-10,,Male,,,Police Officer
+Survivor: Winners at War,40,Natalie Anderson,442,Natalie,33,Edgewater,New Jersey,ESTP,15,39,21,Runner-up,,Sele,,,Koru,11,1,Natalie,1986-04-11,,Female,Asian,,Crossfit Coach/Physical Therapy Student;CrossFit Trainer
+Survivor: Winners at War,40,Michele Fitzgerald,478,Michele,29,Hoboken,New Jersey,ESFP,15,39,20,2nd runner-up,,Sele,Sele,,Koru,6,2,Michele,1990-05-05,,Female,,,Bartender;Business Development Manager
+Survivor: Winners at War,40,Sarah Lacina,414,Sarah,34,Cedar Rapids,Iowa,ENTJ,14,38,19,Eliminated,16th jury member,Dakal,Yara,,Koru,2,0,Sarah,1984-07-09,,Female,,,Police Officer
+Survivor: Winners at War,40,Ben Driebergen,516,Ben,36,Boise,Idaho,ESFP,14,37,18,18th voted out,15th jury member,Sele,Yara,,Koru,7,0,Ben,1983-01-01,,Male,,,Marine;Real Estate/Stay-at-home Dad
+Survivor: Winners at War,40,Denise Stapley,386,Denise,48,Marion,Iowa,INFJ,14,36,17,17th voted out,14th jury member,Sele,Dakal,,Koru,18,2,Denise,1971-01-01,,Female,,,Sex Therapist
+Survivor: Winners at War,40,Nick Wilson,556,Nick,28,Williamsburg,Kentucky,ENTP,13,34,16,16th voted out,13th jury member,Dakal,Sele,,Koru,8,1,Nick,1990-06-11,,Male,,,Public Defender;Attorney
+Survivor: Winners at War,40,Jeremy Collins,433,Jeremy,41,Foxboro,Massachusetts,ESTJ,13,31,15,15th voted out,12th jury member,Sele,Dakal,,Koru,9,1,Jeremy,1978-04-16,,Male,Black,,Cambridge Firefighter
+Survivor: Winners at War,40,Kim Spradlin-Wolfe,371,Kim,36,San Antonio,Texas,INFJ,12,29,14,14th voted out,11th jury member,Dakal,Dakal,,Koru,9,1,Kim,1983-01-30,,Female,,,Bridal Shop Owner;Interior Designer
+Survivor: Winners at War,40,Sophie Clarke,353,Sophie,29,Santa Monica,California,INTJ,11,28,13,13th voted out,10th jury member,Dakal,Yara,,Koru,6,0,Sophie,1989-07-10,,Female,,,Medical Student;Healthcare Consultant
+Survivor: Winners at War,40,Tyson Apostol,274,Tyson,39,Mesa,Arizona,ESTP,10,25,12,12th voted out,9th jury member,Dakal,,,Koru,12,0,Tyson,1979-06-17,,Male,,,Former Professional Cyclist/Missionary;Shop Manager
+Survivor: Winners at War,40,Adam Klein,498,Adam,28,Los Angeles,California,ENTP,9,23,11,11th voted out,8th jury member,Sele,Yara,,Koru,15,0,Adam,1991-01-15,,Male,White,Jewish,Homeless Shelter Manager;Keynote Speaker and Host
+Survivor: Winners at War,40,Wendell Holland,536,Wendell,35,Philadelphia,Pennsylvania,INFJ,8,21,10,10th voted out,7th jury member,Dakal,Sele,,Koru,14,0,Wendell,1984-03-08,,Male,Black,,Furniture Company Owner;Furniture Designer
+Survivor: Winners at War,40,Yul Kwon,202,Yul,44,Los Altos,California,INTJ,7,18,9,9th voted out,6th jury member,Dakal,Sele,,,3,0,Yul,1975-02-14,,Male,Asian,Korean American,Management Consultant;Product Management
+Survivor: Winners at War,40,Sandra Diaz-Twine,112,Sandra,44,Riverview,Florida,ESTP,6,16,8,8th voted out,,Dakal,Dakal,,,2,0,Sandra,1974-07-30,,Female,,Hispanic or Latino,Office Assistant;Case Manager
+Survivor: Winners at War,40,Parvati Shallow,197,Parvati,36,Los Angeles,California,ENFJ,6,16,7,7th voted out,5th jury member,Sele,Sele,,,8,0,Parvati,1982-09-21,,Female,White,,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker
+Survivor: Winners at War,40,Rob Mariano,55,Boston Rob,43,Pensacola,Florida,ESTJ,5,14,6,6th voted out,4th jury member,Sele,Yara,,,4,0,Boston Rob,1975-12-25,,Male,,,Construction Worker
+Survivor: Winners at War,40,Tyson Apostol,274,Tyson,39,Mesa,Arizona,ESTP,4,11,5,5th voted out,,Dakal,,,,12,0,Tyson,1979-06-17,,Male,,,Former Professional Cyclist/Missionary;Shop Manager
+Survivor: Winners at War,40,Ethan Zohn,48,Ethan,45,Hillsborough,New Hampshire,ISFP,3,9,4,4th voted out,3rd jury member,Sele,,,,4,0,Ethan,1973-11-12,,Male,White,Jewish,Professional Soccer Player;Social Entrepreneur/Keynote Speaker
+Survivor: Winners at War,40,Danni Boatwright,166,Danni,43,Shawnee,Kansas,ENFJ,2,6,3,3rd voted out,2nd jury member,Sele,,,,8,0,Danni,1975-07-13,,Female,,,Sports Radio Host;Owner of Sideline Chic
+Survivor: Winners at War,40,Amber Mariano,27,Amber,40,Pensacola,Florida,ISFP,1,3,2,2nd voted out,1st jury member,Dakal,,,,6,0,Amber,1978-08-11,,Female,,,Administrative Assistant;Director of Marketing and Communications
+Survivor: Winners at War,40,Natalie Anderson,442,Natalie,33,Edgewater,New Jersey,ESTP,1,2,1,1st voted out,,Sele,,,,11,1,Natalie,1986-04-11,,Female,Asian,,Crossfit Coach/Physical Therapy Student;CrossFit Trainer
+Survivor: Island of the Idols,39,Tommy Sheehan,590,Tommy,26,Long Beach,New York,ENFJ,14,39,20,Sole Survivor,,Vokai,Vokai,,Lumuwaku,4,0,Tommy,1992-10-26,,Male,,,4th Grade Teacher
+Survivor: Island of the Idols,39,Dean Kowalski,589,Dean,28,New York City,New York,ISTP,14,39,19,Runner-up,,Lairo,Lairo,,Lumuwaku,5,2,Dean,1990-04-12,,Male,,,Tech Sales
+Survivor: Island of the Idols,39,Noura Salman,588,Noura,36,North Potomac,Maryland,ENFP,14,39,18,2nd runner-up,,Vokai,Lairo,,Lumuwaku,6,3,Noura,1982-08-23,,Female,Asian,,Entrepreneur
+Survivor: Island of the Idols,39,Lauren Beck,587,Lauren,28,Glendale,California,ENFP,13,38,17,Eliminated,10th jury member,Vokai,Vokai,,Lumuwaku,1,1,Lauren,1989-11-16,,Female,Black,,Nanny
+Survivor: Island of the Idols,39,Janet Carbin,586,Janet,59,Palm Bay,Florida,ENFJ,13,37,16,15th voted out,9th jury member,Vokai,Lairo,,Lumuwaku,9,0,Janet,1959-06-15,,Female,,,Chief Lifeguard
+Survivor: Island of the Idols,39,Dan Spilo,585,Dan,48,Los Angeles,California,ENTJ,13,36,15,Ejected,,Vokai,Vokai,,Lumuwaku,5,0,Dan,1970-06-28,,Male,,,Talent Manager
+Survivor: Island of the Idols,39,Elaine Stott,584,Elaine,41,Rockholds,Kentucky,ENFP,12,35,14,14th voted out,8th jury member,Lairo,Vokai,,Lumuwaku,8,1,Elaine,1978-01-13,,Female,,,Factory Worker
+Survivor: Island of the Idols,39,Karishma Patel,583,Karishma,37,Houston,Texas,INFP,11,32,13,13th voted out,7th jury member,Lairo,Lairo,,Lumuwaku,22,0,Karishma,1981-12-07,,Female,Asian,,Personal Injury Lawyer
+Survivor: Island of the Idols,39,Elizabeth Beisel,582,Elizabeth,26,Saunderstown,Rhode Island,ENFJ,10,30,12,12th voted out,6th jury member,Lairo,Vokai,,Lumuwaku,8,0,Elizabeth,1992-08-18,,Female,,,Olympic Medalist
+Survivor: Island of the Idols,39,Missy Byrd,581,Missy,24,Tacoma,Washington,INTJ,9,27,11,11th voted out,5th jury member,Lairo,Vokai,,Lumuwaku,6,0,Missy,1994-07-01,,Female,Black,,Air Force Veteran
+Survivor: Island of the Idols,39,Aaron Meredith,580,Aaron,36,Warwick,Rhode Island,ESTJ,9,27,10,10th voted out,4th jury member,Lairo,Vokai,,Lumuwaku,10,2,Aaron,1982-12-16,,Male,Black,,Gym Owner
+Survivor: Island of the Idols,39,Jamal Shipman,579,Jamal,33,Providence,Rhode Island,ENFJ,8,24,9,9th voted out,3rd jury member,Vokai,Lairo,,Lumuwaku,6,0,Jamal,1985-05-09,,Male,Black,Hispanic or Latino,College Administrator
+Survivor: Island of the Idols,39,Kellee Kim,578,Kellee,29,Philadelphia,Pennsylvania,INTP,8,22,8,8th voted out,2nd jury member,Vokai,Lairo,,Lumuwaku,8,0,Kellee,1989-10-17,,Female,Asian,,MBA Student
+Survivor: Island of the Idols,39,Jack Nichting,577,Jack,23,Harrisonburg,Virginia,ENFP,7,19,7,7th voted out,1st jury member,Vokai,Lairo,,,2,0,Jack,1995-06-05,,Male,,,Graduate Student
+Survivor: Island of the Idols,39,Jason Linden,576,Jason,32,New York City,New York,ENTP,6,16,6,6th voted out,,Vokai,Vokai,,,6,0,Jason,1986-08-04,,Male,White,Jewish,Personal Injury Lawyer
+Survivor: Island of the Idols,39,Tom Laidlaw,575,Tom,60,Greenwich,Connecticut,ESFJ,5,14,5,5th voted out,,Lairo,Lairo,,,6,0,Tom,1958-04-15,,Male,,,Former NHL Player
+Survivor: Island of the Idols,39,Chelsea Walker,574,Chelsea,27,Los Angeles,California,ENTP,4,11,4,4th voted out,,Lairo,,,,6,0,Chelsea,1992-03-10,,Female,,,Digital Content Creator
+Survivor: Island of the Idols,39,Vince Moua,573,Vince,27,Palo Alto,California,ENFP,3,8,3,3rd voted out,,Lairo,,,,7,0,Vince,1991-04-09,,Male,Asian,Hmong,Admissions Counselor
+Survivor: Island of the Idols,39,Molly Byman,572,Molly,27,Durham,North Carolina,INTJ,2,6,2,2nd voted out,,Vokai,,,,7,0,Molly,1990-10-05,,Female,,,Law Student
+Survivor: Island of the Idols,39,Ronnie Bardah,571,Ronnie,36,Henderson,Nevada,ISTP,1,3,1,1st voted out,,Lairo,,,,7,0,Ronnie,1982-08-29,,Male,"Asian, Black",Jewish,Professional Poker Player
+Survivor: Edge of Extinction,38,Chris Underwood,559,Chris,25,Greenville,South Carolina,ENTP,14,39,20,Sole Survivor,,Manu,,,Vata,9,1,Chris,1992-10-06,,Male,,Hispanic or Latino,District Sales Manager
+Survivor: Edge of Extinction,38,Gavin Whitson,570,Gavin,23,Erwin,Tennessee,ISFJ,14,39,19,Runner-up,,Kama,Manu,,Vata,0,2,Gavin,1994-07-20,,Male,,,YMCA Program Director
+Survivor: Edge of Extinction,38,Julie Rosenberg,569,Julie,46,New York City,New York,ENFP,14,39,18,2nd runner-up,,Kama,Kama,,Vata,1,2,Julie,1971-10-09,,Female,White,Jewish,Toymaker
+Survivor: Edge of Extinction,38,Rick Devens,560,Rick,33,Macon,Georgia,ENTP,13,38,17,Eliminated,13th jury member,Manu,Lesu,,Vata,12,4,Rick,1984-04-05,,Male,,,Morning News Anchor
+Survivor: Edge of Extinction,38,Lauren O'Connell,568,Lauren,21,Waco,Texas,ESFP,13,37,16,16th voted out,12th jury member,Manu,Lesu,,Vata,11,0,Lauren,1996-10-25,,Female,,,Student
+Survivor: Edge of Extinction,38,Victoria Baamonde,567,Victoria,23,Bronx,New York,INTP,13,36,15,15th voted out,11th jury member,Kama,Manu,,Vata,2,0,Victoria,1994-07-18,,Female,,Hispanic or Latino,Waitress
+Survivor: Edge of Extinction,38,Aurora McCreary,566,Aurora,32,Orlando,Florida,ISTP,12,34,14,14th voted out,10th jury member,Kama,Kama,,Vata,12,2,Aurora,1985-12-21,,Female,,,Divorce Lawyer
+Survivor: Edge of Extinction,38,Ron Clark,565,Ron,45,Atlanta,Georgia,,11,31,13,13th voted out,9th jury member,Kama,Kama,,Vata,2,0,Ron,1971-10-24,,Male,,,Teacher
+Survivor: Edge of Extinction,38,Dan DaSilva,564,Wardog,38,Los Angeles,California,ENTP,10,29,12,12th voted out,8th jury member,Manu,Lesu,,Vata,8,0,Wardog,1980-03-31,,Male,,,Law Student/Former Military
+Survivor: Edge of Extinction,38,Kelley Wentworth,429,Kelley,32,Seattle,Washington,ENTP,9,27,11,11th voted out,7th jury member,Manu,Lesu,,Vata,14,0,Kelley,1986-06-07,,Female,,,Marketing Manager
+Survivor: Edge of Extinction,38,David Wright,495,David,44,Sherman Oaks,California,INFP,9,25,10,10th voted out,6th jury member,Manu,Lesu,,Vata,12,0,David,1974-02-28,,Male,,,Television Writer
+Survivor: Edge of Extinction,38,Julia Carter,563,Julia,25,Bethesda,Maryland,ESFJ,8,23,9,9th voted out,5th jury member,Kama,Kama,,Vata,9,0,Julia,1993-04-18,,Female,Black,,Medical Assistant
+Survivor: Edge of Extinction,38,Eric Hafemann,562,Eric,34,Livermore,California,ESTP,7,22,8,8th voted out,4th jury member,Kama,Manu,,Vata,8,0,Eric,1983-04-13,,Male,,,Firefighter
+Survivor: Edge of Extinction,38,Joe Anglim,451,Joe,29,Ogden,Utah,ISFP,6,19,7,7th voted out,3rd jury member,Kama,Kama,,Vata,6,0,Joe,1988-09-30,,Male,,,Jewelry Designer;Multimedia Artist
+Survivor: Edge of Extinction,38,Wendy Diaz,561,Wendy,25,Bell,California,ENFP,5,16,6,6th voted out,,Manu,Manu,,,15,0,Wendy,1992-09-26,,Female,,Hispanic or Latino,Small Business Owner
+Survivor: Edge of Extinction,38,Aubry Bracco,477,Aubry,32,Los Angeles,California,INFJ,5,13,5,5th voted out,2nd jury member,Kama,Manu,,,4,0,Aubry,1985-11-14,,Female,,,Social Media Marketer;Marketing Director
+Survivor: Edge of Extinction,38,Rick Devens,560,Rick,33,Macon,Georgia,ENTP,4,11,4,4th voted out,,Manu,Lesu,,,12,4,Rick,1984-04-05,,Male,,,Morning News Anchor
+Survivor: Edge of Extinction,38,Chris Underwood,559,Chris,25,Greenville,South Carolina,ENTP,3,8,3,3rd voted out,,Manu,,,,9,1,Chris,1992-10-06,,Male,,Hispanic or Latino,District Sales Manager
+Survivor: Edge of Extinction,38,Keith Sowell,558,Keith,19,Durham,North Carolina,INFP,2,6,2,2nd voted out,,Manu,,,,6,0,Keith,1998-07-16,,Male,Black,,Pre-Med Student
+Survivor: Edge of Extinction,38,Reem Daly,557,Reem,46,Ashburn,Virginia,ESTP,1,3,1,1st voted out,1st jury member,Manu,,,,4,0,Reem,1971-07-08,,Female,,,Sales Representative
+Survivor: David vs. Goliath,37,Nick Wilson,556,Nick,27,Williamsburg,Kentucky,ENTP,14,39,20,Sole Survivor,,David,Jabeni,,Kalokalo,0,2,Nick,1990-06-11,,Male,,,Public Defender;Attorney
+Survivor: David vs. Goliath,37,Mike White,555,Mike,47,Los Angeles,California,INFP,14,39,19,Runner-up,,Goliath,Jabeni,,Kalokalo,1,1,Mike,1970-06-28,,Male,,,Filmmaker
+Survivor: David vs. Goliath,37,Angelina Keeley,554,Angelina,28,San Clemente,California,ENTJ,14,39,18,2nd runner-up,,Goliath,Jabeni,,Kalokalo,6,0,Angelina,1989-07-06,,Female,,Hispanic or Latino,Financial Consultant
+Survivor: David vs. Goliath,37,Kara Kay,553,Kara,30,San Diego,California,ENFJ,13,38,17,Eliminated,10th jury member,Goliath,Vuku,,Kalokalo,0,1,Kara,1987-11-20,,Female,,,Realtor
+Survivor: David vs. Goliath,37,Alison Raybould,552,Alison,28,Chapel Hill,North Carolina,ENFJ,13,37,16,14th voted out,9th jury member,Goliath,Tiva,,Kalokalo,13,1,Alison,1989-07-12,,Female,,,Physician
+Survivor: David vs. Goliath,37,Davie Rickenbacker,551,Davie,30,Atlanta,Georgia,ENFP,13,36,15,13th voted out,8th jury member,David,Vuku,,Kalokalo,7,1,Davie,1987-09-14,,Male,Black,,Social Media Manager
+Survivor: David vs. Goliath,37,Christian Hubicki,550,Christian,32,Tallahassee,Florida,ENFP,12,35,14,12th voted out,7th jury member,David,Tiva,,Kalokalo,18,1,Christian,1985-12-06,,Male,,,Robotics Scientist
+Survivor: David vs. Goliath,37,Gabby Pascuzzi,549,Gabby,25,Denver,Colorado,INFP,11,32,13,11th voted out,6th jury member,David,Tiva,,Kalokalo,2,0,Gabby,1993-03-23,,Female,Asian,,Technical Writer
+Survivor: David vs. Goliath,37,Carl Boudreaux,548,Carl,41,Houston,Texas,ISFJ,10,30,12,10th voted out,5th jury member,David,Vuku,,Kalokalo,6,0,Carl,1976-10-29,,Male,Black,,Truck Driver
+Survivor: David vs. Goliath,37,Alec Merlino,547,Alec,24,San Clemente,California,ESFP,10,28,11,9th voted out,4th jury member,Goliath,Vuku,,Kalokalo,9,1,Alec,1993-10-15,,Male,,,Bartender
+Survivor: David vs. Goliath,37,Dan Rengering,546,Dan,28,Gainesville,Florida,ESFP,9,25,10,8th voted out,3rd jury member,Goliath,Tiva,,Kalokalo,5,1,Dan,1990-04-07,,Male,,,S.W.A.T. Officer
+Survivor: David vs. Goliath,37,John Hennigan,545,John,38,Los Angeles,California,INFJ,8,22,9,7th voted out,2nd jury member,Goliath,Tiva,,Kalokalo,3,0,John,1979-10-03,,Male,,,Pro Wrestler
+Survivor: David vs. Goliath,37,Elizabeth Olson,544,Elizabeth,31,Longview,Texas,ESTP,7,20,8,6th voted out,1st jury member,David,Vuku,,Kalokalo,13,0,Elizabeth,1987-01-22,,Female,,,Kitchen Staff
+Survivor: David vs. Goliath,37,Lyrsa Torres,543,Lyrsa,36,Boston,Massachusetts,ISFP,6,17,7,5th voted out,,David,Jabeni,,,9,0,Lyrsa,1981-09-12,,Female,,Hispanic,Airline Agent
+Survivor: David vs. Goliath,37,Natalie Cole,542,Natalie,57,Los Angeles,California,ESTJ,5,15,6,4th voted out,,Goliath,Jabeni,,,4,0,Natalie,1961-02-26,,Female,Black,,Publishing CEO
+Survivor: David vs. Goliath,37,Natalia Azoqa,541,Natalia,26,Irvine,California,ESTJ,4,11,5,3rd voted out,,Goliath,Vuku,,,3,0,Natalia,1992-04-02,,Female,Asian,,Industrial Engineer
+Survivor: David vs. Goliath,37,Bi Nguyen,540,Bi,28,Houston,Texas,ISFP,4,10,4,Quit,,David,,,,0,0,Bi,1989-10-30,,Female,Asian,,MMA Fighter
+Survivor: David vs. Goliath,37,Jeremy Crawford,539,Jeremy,40,New York City,New York,ENFJ,3,9,3,2nd voted out,,Goliath,,,,9,0,Jeremy,1978-04-26,,Male,Black,,Attorney
+Survivor: David vs. Goliath,37,Jessica Peet,538,Jessica,19,Lakeland,Florida,ENFP,2,6,2,1st voted out,,David,,,,5,0,Jessica,1998-10-22,,Female,,,Waitress
+Survivor: David vs. Goliath,37,Pat Cusack,537,Pat,41,Watervliet,New York,ESTP,1,3,1,Medically evacuated,,David,,,,0,0,Pat,1977-02-25,,Male,,,Maintenance Manager
+Survivor: Ghost Island,36,Wendell Holland,536,Wendell,33,Philadelphia,Pennsylvania,INFJ,14,39,20,Sole Survivor,,Naviti,Naviti,Yanuya,Lavita,5,2,Wendell,1984-03-08,,Male,Black,,Furniture Company Owner;Furniture Designer
+Survivor: Ghost Island,36,Domenick Abbate,535,Domenick,38,Nesconset,New York,ESTP,14,39,19,Runner-up,,Naviti,Naviti,Naviti,Lavita,2,3,Domenick,1978-10-31,,Male,,,Construction Supervisor
+Survivor: Ghost Island,36,Laurel Johnson,534,Laurel,29,Minneapolis,Minnesota,INTP,14,39,18,2nd runner-up,11th jury member,Malolo,Naviti,Yanuya,Lavita,2,1,Laurel,1988-02-29,,Female,Black,,Financial Consultant
+Survivor: Ghost Island,36,Angela Perkins,533,Angela,42,Cincinnati,Ohio,ISTJ,13,38,17,Eliminated,10th jury member,Naviti,Naviti,Malolo,Lavita,3,1,Angela,1974-11-02,,Female,,,Army Veteran
+Survivor: Ghost Island,36,Donathan Hurley,532,Donathan,25,Kimper,Kentucky,ENFP,13,37,16,16th voted out,9th jury member,Malolo,Naviti,Naviti,Lavita,11,0,Donathan,1991-07-19,,Male,,,Caretaker
+Survivor: Ghost Island,36,Sebastian Noel,531,Sebastian,22,Satellite Beach,Florida,ESFP,13,36,15,15th voted out,8th jury member,Naviti,Malolo,Yanuya,Lavita,5,0,Sebastian,1994-07-20,,Male,,,Fishing Guide
+Survivor: Ghost Island,36,Kellyn Bechtold,530,Kellyn,30,Denver,Colorado,ESFJ,12,35,14,14th voted out,7th jury member,Naviti,Malolo,Malolo,Lavita,8,1,Kellyn,1986-11-01,,Female,,,Career Counselor
+Survivor: Ghost Island,36,Chelsea Townsend,529,Chelsea,25,Los Angeles,California,ISFP,11,32,13,13th voted out,6th jury member,Naviti,Malolo,Naviti,Lavita,5,2,Chelsea,1992-05-25,,Female,,,EMT/Pro Cheerleader
+Survivor: Ghost Island,36,Michael Yerger,528,Michael,18,Los Angeles,California,INFJ,10,29,12,12th voted out,5th jury member,Malolo,Malolo,Malolo,Lavita,15,0,Michael,1998-07-20,,Male,,,Real Estate Agent
+Survivor: Ghost Island,36,Jenna Bowman,527,Jenna,23,Venice Beach,California,ISTJ,10,29,11,11th voted out,4th jury member,Malolo,Malolo,Yanuya,Lavita,3,0,Jenna,1993-11-10,,Female,,,Advertising Account Executive
+Survivor: Ghost Island,36,Desiree Afuye,526,Desiree,21,Brooklyn,New York,ESFP,9,27,10,10th voted out,3rd jury member,Naviti,Malolo,Malolo,Lavita,10,0,Desiree,1996-02-03,,Female,Black,,Student
+Survivor: Ghost Island,36,Libby Vincek,525,Libby,24,Houston,Texas,ESFJ,8,25,9,9th voted out,2nd jury member,Malolo,Naviti,Naviti,Lavita,8,0,Libby,1992-08-24,,Female,,,Social Media Strategist
+Survivor: Ghost Island,36,Chris Noble,524,Chris,27,Brooklyn,New York,ESTJ,7,22,8,8th voted out,1st jury member,Naviti,Naviti,Yanuya,Lavita,10,0,Chris,1989-12-04,,Male,,,Male Model
+Survivor: Ghost Island,36,Bradley Kleihege,523,Bradley,26,Los Angeles,California,ENTJ,6,19,7,7th voted out,,Naviti,Malolo,Naviti,,8,0,Bradley,1990-09-14,,Male,,,Law Student
+Survivor: Ghost Island,36,James Lim,522,James,24,New York City,New York,INTJ,5,17,6,6th voted out,,Malolo,Naviti,Malolo,,6,0,James,1993-03-17,,Male,Asian,Korean American,Business Analyst
+Survivor: Ghost Island,36,Stephanie Johnson,521,Stephanie,34,Chicago,Illinois,ENFP,4,14,5,5th voted out,,Malolo,Malolo,,,7,0,Stephanie,1982-09-10,,Female,,,Yoga Instructor
+Survivor: Ghost Island,36,Brendan Shapiro,520,Brendan,40,Herndon,Virginia,ENFJ,3,12,4,4th voted out,,Malolo,Malolo,,,5,0,Brendan,1976-06-17,,Male,,,Physical Education Teacher
+Survivor: Ghost Island,36,Morgan Ricke,519,Morgan,29,Orlando,Florida,ENFP,2,9,3,3rd voted out,,Naviti,Naviti,,,4,0,Morgan,1987-08-07,,Female,,,Marine Animal Trainer
+Survivor: Ghost Island,36,Jacob Derwin,518,Jacob,22,Brooklyn,New York,INFP,1,6,2,2nd voted out,,Malolo,,,,5,0,Jacob,1995-06-01,,Male,White,Jewish,Music Teacher
+Survivor: Ghost Island,36,Stephanie Gonzalez,517,Gonzalez,26,Ocala,Florida,ESTJ,1,3,1,1st voted out,,Malolo,,,,8,0,Gonzalez,1991-04-22,,Female,,Hispanic or Latino,Graphic Sales
+Survivor: Heroes vs. Healers vs. Hustlers,35,Ben Driebergen,516,Ben,34,Boise,Idaho,ESFP,14,39,18,Sole Survivor,,Levu,Yawa,,Solewa,11,0,Ben,1983-01-01,,Male,,,Marine;Real Estate/Stay-at-home Dad
+Survivor: Heroes vs. Healers vs. Hustlers,35,Chrissy Hofbeck,515,Chrissy,46,Lebanon Township,New Jersey,ENTJ,14,39,17,Runner-up,,Levu,Soko,,Solewa,7,4,Chrissy,1971-03-09,,Female,,,Actuary
+Survivor: Heroes vs. Healers vs. Hustlers,35,Ryan Ulrich,514,Ryan,23,North Arlington,New Jersey,ENFP,14,39,16,2nd runner-up,,Yawa,Soko,,Solewa,2,0,Ryan,1993-09-08,,Male,,,Bellhop
+Survivor: Heroes vs. Healers vs. Hustlers,35,Devon Pinto,513,Devon,23,Solana Beach,California,INFJ,13,38,15,Eliminated,8th jury member,Yawa,Levu,,Solewa,2,0,Devon,1993-03-06,,Male,,Hispanic or Latino,Surf Instructor
+Survivor: Heroes vs. Healers vs. Hustlers,35,Mike Zahalsky,512,Mike,43,Parkland,Florida,ENFP,13,37,14,14th voted out,7th jury member,Soko,Yawa,,Solewa,9,0,Mike,1973-09-11,,Male,White,Jewish,Urologist
+Survivor: Heroes vs. Healers vs. Hustlers,35,Ashley Nolan,511,Ashley,26,Satellite Beach,Florida,ESFP,12,36,13,13th voted out,6th jury member,Levu,Levu,,Solewa,8,2,Ashley,1990-09-17,,Female,,,Lifeguard
+Survivor: Heroes vs. Healers vs. Hustlers,35,Lauren Rimmer,510,Lauren,35,Beaufort,North Carolina,ISTJ,11,33,12,12th voted out,5th jury member,Yawa,Yawa,,Solewa,3,1,Lauren,1982-03-06,,Female,,,Fisherman
+Survivor: Heroes vs. Healers vs. Hustlers,35,Joe Mena,509,Joe,34,Tolland,Connecticut,ESTJ,10,30,11,11th voted out,4th jury member,Soko,Levu,,Solewa,12,0,Joe,1983-03-15,,Male,,Hispanic or Latino,Probation Officer
+Survivor: Heroes vs. Healers vs. Hustlers,35,John Hilsabeck,508,JP,28,Los Angeles,California,ISFP,10,27,10,10th voted out,3rd jury member,Levu,Soko,,Solewa,6,0,JP,1988-06-22,,Male,,,Firefighter
+Survivor: Heroes vs. Healers vs. Hustlers,35,Cole Medders,507,Cole,24,Little Rock,Arkansas,ISFP,9,24,9,9th voted out,2nd jury member,Soko,Yawa,,Solewa,7,1,Cole,1992-09-18,,Male,,,Wilderness Therapy Guide
+Survivor: Heroes vs. Healers vs. Hustlers,35,Desiree Williams,506,Desi,27,Newport News,Virginia,ESFJ,8,21,8,8th voted out,1st jury member,Soko,Levu,,Solewa,11,1,Desi,1989-06-14,,Female,Black,,Phyiscal Therapist
+Survivor: Heroes vs. Healers vs. Hustlers,35,Jessica Johnston,505,Jessica,29,Louisville,Kentucky,ENFP,7,19,7,7th voted out,,Soko,Yawa,,Solewa,7,0,Jessica,1987-04-05,,Female,,,Nurse Practitioner
+Survivor: Heroes vs. Healers vs. Hustlers,35,Alexandrea Elliott,504,Ali,24,Los Angeles,California,INFJ,6,16,6,6th voted out,,Yawa,Soko,,,3,0,Ali,1992-11-13,,Female,Black,,Celebrity Assistant
+Survivor: Heroes vs. Healers vs. Hustlers,35,Roark Luskin,503,Roark,27,Santa Monica,California,ENTP,5,14,5,5th voted out,,Soko,Soko,,,3,0,Roark,1989-11-30,,Female,,,Social Worker
+Survivor: Heroes vs. Healers vs. Hustlers,35,Alan Ball,502,Alan,32,Houston,Texas,ISTP,4,11,4,4th voted out,,Levu,Levu,,,2,0,Alan,1985-03-29,,Male,Black,,NFL Player
+Survivor: Heroes vs. Healers vs. Hustlers,35,Patrick Bolton,501,Patrick,24,Auburn,Alabama,ESTP,3,8,3,3rd voted out,,Yawa,,,,5,0,Patrick,1992-03-06,,Male,,,Small Business Owner
+Survivor: Heroes vs. Healers vs. Hustlers,35,Simone Nguyen,500,Simone,25,New York City,New York,INTP,2,6,2,2nd voted out,,Yawa,,,,5,0,Simone,1991-05-31,,Female,Asian,,Diversity Advocate
+Survivor: Heroes vs. Healers vs. Hustlers,35,Katrina Radke,499,Katrina,46,Excelsior,Minnesota,ENFP,1,3,1,1st voted out,,Levu,,,,5,0,Katrina,1970-12-17,,Female,,,Olympian
+Survivor: Game Changers,34,Sarah Lacina,414,Sarah,32,Marion,Iowa,ENTJ,14,39,20,Sole Survivor,,Nuku,Tavua,,Maku Maku,3,0,Sarah,1984-07-09,,Female,,,Police Officer
+Survivor: Game Changers,34,Brad Culpepper,401,Brad,47,Tampa,Florida,ESTJ,14,39,19,Runner-up,,Nuku,Mana,,Maku Maku,2,5,Brad,1969-05-08,,Male,,,Attorney/Retired NFL Player
+Survivor: Game Changers,34,Troy Robertson,364,Troyzan,54,Miami,Florida,ESFP,14,39,18,2nd runner-up,,Mana,Tavua,,Maku Maku,2,1,Troyzan,1961-07-30,,Male,,,Swimsuit Photographer
+Survivor: Game Changers,34,Tai Trang,476,Tai,52,San Francisco,California,INFP,12,38,17,16th voted out,10th jury member,Nuku,Mana,,Maku Maku,12,1,Tai,1964-03-23,,Male,Asian,,Gardener
+Survivor: Game Changers,34,Aubry Bracco,477,Aubry,30,Cambridge,Massachusetts,INFJ,12,37,16,15th voted out,9th jury member,Mana,Nuku,,Maku Maku,9,1,Aubry,1985-11-14,,Female,,,Social Media Marketer;Marketing Director
+Survivor: Game Changers,34,Cirie Fields,179,Cirie,45,Norwalk,Connecticut,ENFJ,12,36,15,Eliminated,8th jury member,Nuku,Tavua,,Maku Maku,0,0,Cirie,1970-07-18,,Female,Black,,Nurse
+Survivor: Game Changers,34,Michaela Bradshaw,485,Michaela,25,Fort Worth,Texas,ISTJ,11,35,14,14th voted out,7th jury member,Mana,Nuku,,Maku Maku,10,0,Michaela,1990-12-01,,Female,Black,,Vacation Club Sales
+Survivor: Game Changers,34,Andrea Boehlke,333,Andrea,27,New York City,New York,ENFP,11,33,13,13th voted out,6th jury member,Nuku,Tavua,,Maku Maku,14,2,Andrea,1989-05-10,,Female,,,Student;Entertainment Host/Writer
+Survivor: Game Changers,34,Sierra Dawn Thomas,456,Sierra,29,Roy,Utah,ISFJ,10,32,12,12th voted out,5th jury member,Nuku,Mana,,Maku Maku,15,0,Sierra,1986-12-18,,Female,,,Barrel Racer
+Survivor: Game Changers,34,Zeke Smith,490,Zeke,28,Brooklyn,New York,INTP,9,29,11,11th voted out,4th jury member,Nuku,Tavua,,Maku Maku,11,0,Zeke,1988-01-25,,Male,,,Asset Manager
+Survivor: Game Changers,34,Debbie Wanner,470,Debbie,51,Reading,Pennsylvania,ENTP,8,26,10,10th voted out,3rd jury member,Nuku,Mana,,Maku Maku,6,1,Debbie,1965-11-21,,Female,,,Chemist
+Survivor: Game Changers,34,Oscar Lusth,201,Ozzy,34,Venice,California,ISFP,7,24,9,9th voted out,2nd jury member,Nuku,Tavua,,Maku Maku,6,0,Ozzy,1981-08-23,,Male,Mexican American,Hispanic or Latino,Waiter;Photographer
+Survivor: Game Changers,34,Hali Ford,450,Hali,26,Knoxville,Tennessee,INFP,7,21,8,8th voted out,1st jury member,Mana,Mana,,Maku Maku,8,0,Hali,1989-07-20,,Female,,,Law Student
+Survivor: Game Changers,34,Jeff Varner,23,Jeff,50,High Point,North Carolina,ENFP,6,18,7,7th voted out,,Mana,Nuku,,,6,0,Jeff,1966-04-16,,Male,,,Internet Projects Manager
+Survivor: Game Changers,34,Sandra Diaz-Twine,112,Sandra,41,Fayetteville,North Carolina,ESTP,5,16,6,6th voted out,,Mana,Nuku,,,5,0,Sandra,1974-07-30,,Female,,Hispanic or Latino,Office Assistant;Case Manager
+Survivor: Game Changers,34,James Thomas Jr.,281,J.T.,31,Mobile,Alabama,ESTP,4,13,5,5th voted out,,Nuku,Nuku,,,3,0,J.T.,1984-06-23,,Male,,,Cattle Rancher
+Survivor: Game Changers,34,Malcolm Freberg,384,Malcolm,29,Hermosa Beach,California,ENTP,3,11,4,4th voted out,,Mana,Nuku,,,5,0,Malcolm,1987-05-07,,Male,,,Bartender
+Survivor: Game Changers,34,Caleb Reynolds,464,Caleb,28,Hopkinsville,Kentucky,ESFP,2,9,3,3rd voted out,,Mana,Mana,,,5,0,Caleb,1987-11-27,,Male,,,Army Veteran
+Survivor: Game Changers,34,Tony Vlachos,424,Tony,42,Jersey City,New Jersey,ESTP,1,6,2,2nd voted out,,Mana,,,,7,0,Tony,1973-09-10,,Male,,,Police Officer
+Survivor: Game Changers,34,Ciera Eastin,406,Ciera,27,Salem,Oregon,INFP,1,3,1,1st voted out,,Mana,,,,9,0,Ciera,1989-03-05,,Female,,,Cosmetology Student
+Survivor: Millennials vs. Gen X,33,Adam Klein,498,Adam,25,San Francisco,California,ENTP,14,39,20,Sole Survivor,,Vanua,Takali,,Vinaka,6,1,Adam,1991-01-15,,Male,White,Jewish,Homeless Shelter Manager;Keynote Speaker and Host
+Survivor: Millennials vs. Gen X,33,Ken McNickle,497,Ken,33,Denver,Colorado,ISFP,14,39,19,Co-runner-up,,Takali,Takali,,Vinaka,3,4,Ken,1982-09-20,,Male,,,Model
+Survivor: Millennials vs. Gen X,33,Hannah Shapiro,496,Hannah,24,West Hollywood,California,ENFP,14,39,18,Co-runner-up,,Vanua,Ikabula,,Vinaka,13,0,Hannah,1992-02-24,,Female,White,Jewish,Barista
+Survivor: Millennials vs. Gen X,33,David Wright,495,David,42,Sherman Oaks,California,INFP,13,38,17,17th voted out,10th jury member,Takali,Vanua,,Vinaka,10,2,David,1974-02-28,,Male,,,Television Writer
+Survivor: Millennials vs. Gen X,33,Bret LaBelle,494,Bret,42,Dedham,Massachusetts,ESFJ,13,37,16,16th voted out,9th jury member,Takali,Ikabula,,Vinaka,5,0,Bret,1973-08-20,,Male,,,Police Sergeant
+Survivor: Millennials vs. Gen X,33,Justin Starrett,493,Jay,27,Fort Lauderdale,Florida,ESTP,13,36,15,15th voted out,8th jury member,Vanua,Ikabula,,Vinaka,10,2,Jay,1989-06-03,,Male,,Hispanic or Latino,Real Estate Agent
+Survivor: Millennials vs. Gen X,33,Sunday Burquest,492,Sunday,45,Otsego,Minnesota,ENFJ,12,35,14,14th voted out,7th jury member,Takali,Ikabula,,Vinaka,5,0,Sunday,1971-02-06,2021-04-18,Female,,,Youth Pastor
+Survivor: Millennials vs. Gen X,33,Will Wahl,491,Will,18,Long Valley,New Jersey,INTP,12,34,13,13th voted out,6th jury member,Vanua,Ikabula,,Vinaka,6,1,Will,1997-08-12,,Male,,,High School Student
+Survivor: Millennials vs. Gen X,33,Zeke Smith,490,Zeke,28,Brooklyn,New York,INTP,11,33,12,12th voted out,5th jury member,Vanua,Vanua,,Vinaka,14,0,Zeke,1988-01-25,,Male,,,Asset Manager
+Survivor: Millennials vs. Gen X,33,Jessica Lewis,489,Jessica,37,Voorheesville,New York,ENFJ,10,30,11,Eliminated,4th jury member,Takali,Takali,,Vinaka,9,0,Jessica,1979-02-24,,Female,,,Assistant District Attorney
+Survivor: Millennials vs. Gen X,33,Chris Hammons,488,Chris,38,Moore,Oklahoma,ISTJ,10,28,10,10th voted out,3rd jury member,Takali,Vanua,,Vinaka,7,0,Chris,1978-04-01,,Male,,,Trial Lawyer
+Survivor: Millennials vs. Gen X,33,Taylor Lee Stocker,487,Taylor,24,Post Falls,Idaho,INFP,9,25,9,9th voted out,2nd jury member,Vanua,Takali,,Vinaka,7,0,Taylor,1991-11-20,,Male,,,Snowboard Instructor
+Survivor: Millennials vs. Gen X,33,Michelle Schubert,486,Michelle,28,Yakima,Washington,INFP,8,23,8,8th voted out,1st jury member,Vanua,Vanua,,Vinaka,10,0,Michelle,1988-03-11,,Female,,,Missionary Recruiter
+Survivor: Millennials vs. Gen X,33,Michaela Bradshaw,485,Michaela,25,Fort Worth,Texas,ISTJ,7,20,7,7th voted out,,Vanua,Ikabula,,,4,0,Michaela,1990-12-01,,Female,Black,,Vacation Club Sales
+Survivor: Millennials vs. Gen X,33,Jessica Figueroa,484,Figgy,23,Nashville,Tennessee,ESFP,6,18,6,6th voted out,,Vanua,Takali,,,6,0,Figgy,1992-12-12,,Female,,Hispanic or Latino,Bartender
+Survivor: Millennials vs. Gen X,33,Ciandre Taylor,483,CeCe,39,Granada Hills,California,ISFJ,5,15,5,5th voted out,,Takali,Vanua,,,11,0,CeCe,1977-03-02,,Female,Black,,Insurance Adjuster
+Survivor: Millennials vs. Gen X,33,Lucy Huang,482,Lucy,42,Diamond Bar,California,ISTJ,4,12,4,4th voted out,,Takali,,,,2,0,Lucy,1973-09-22,,Female,Asian,,Dietician
+Survivor: Millennials vs. Gen X,33,Paul Wachter,481,Paul,52,Sugarloaf Key,Florida,ESTJ,3,10,3,3rd voted out,,Takali,,,,6,0,Paul,1963-10-10,,Male,,,Boat Mechanic
+Survivor: Millennials vs. Gen X,33,Mari Takahashi,480,Mari,31,Los Angeles,California,ESFP,2,7,2,2nd voted out,,Vanua,,,,7,0,Mari,1984-11-02,,Female,Asian,,Gamer
+Survivor: Millennials vs. Gen X,33,Rachel Ako,479,Rachel,37,Los Angeles,California,ENFP,1,4,1,1st voted out,,Takali,,,,5,0,Rachel,1978-09-08,,Female,Asian,,Recruiting Director
+Survivor: Kaoh Rong,32,Michele Fitzgerald,478,Michele,24,Freehold,New Jersey,ESFP,15,39,18,Sole Survivor,,Gondol,Chan Loh,,Dara,1,2,Michele,1990-05-05,,Female,,,Bartender;Business Development Manager
+Survivor: Kaoh Rong,32,Aubry Bracco,477,Aubry,29,Cambridge,Massachusetts,INFJ,15,39,17,Runner-up,,Chan Loh,Gondol,,Dara,8,0,Aubry,1985-11-14,,Female,,,Social Media Marketer;Marketing Director
+Survivor: Kaoh Rong,32,Tai Trang,476,Tai,51,San Francisco,California,INFP,15,39,16,2nd runner-up,,Gondol,Gondol,,Dara,4,1,Tai,1964-03-23,,Male,Asian,,Gardener
+Survivor: Kaoh Rong,32,Cydney Gillon,475,Cydney,22,Douglasville,Georgia,ISTP,14,37,15,12th voted out,8th jury member,To Tang,Chan Loh,,Dara,5,1,Cydney,1992-09-14,,Female,Black,,Bodybuilder
+Survivor: Kaoh Rong,32,Joseph Del Campo,474,Joe,71,Vero Beach,Florida,ISTJ,13,34,14,Medically evacuated,7th jury member,Chan Loh,Gondol,,Dara,1,0,Joe,1943-07-04,,Male,,,Former FBI Agent
+Survivor: Kaoh Rong,32,Kyle Jason,473,Jason,31,Detroit,Michigan,ESTJ,12,32,13,11th voted out,6th jury member,To Tang,Chan Loh,,Dara,5,1,Jason,1984-07-16,,Male,,,Bounty Hunter
+Survivor: Kaoh Rong,32,Julia Sokolowski,472,Julia,19,Boston,Massachusetts,ENFP,11,29,12,10th voted out,5th jury member,Gondol,Gondol,,Dara,7,2,Julia,1996-04-08,,Female,,,College Student
+Survivor: Kaoh Rong,32,Scot Pollard,471,Scot,40,Carmel,Indiana,ESTJ,10,27,11,9th voted out,4th jury member,To Tang,Gondol,,Dara,7,0,Scot,1975-02-12,,Male,,,Former NBA Champion
+Survivor: Kaoh Rong,32,Debbie Wanner,470,Debbie,49,Reading,Pennsylvania,ENTP,9,24,10,8th voted out,3rd jury member,Chan Loh,Chan Loh,,Dara,5,0,Debbie,1965-11-21,,Female,,,Chemist
+Survivor: Kaoh Rong,32,Nick Maiorano,469,Nick,30,Redondo Beach,California,INTP,8,22,9,7th voted out,2nd jury member,Gondol,Chan Loh,,Dara,6,1,Nick,1985-01-28,,Male,,,Personal Trainer
+Survivor: Kaoh Rong,32,Neal Gottlieb,468,Neal,38,Sausalito,California,INTP,7,19,8,Medically evacuated,,Chan Loh,Chan Loh,,Dara,0,0,Neal,1977-02-03,,Male,,,Ice Cream Entrepreneur
+Survivor: Kaoh Rong,32,Peter Baggenstos,467,Peter,34,Minneapolis,Minnesota,ENTJ,6,16,7,6th voted out,,Chan Loh,Gondol,,,7,0,Peter,1980-07-21,,Male,Black,,ER Doctor
+Survivor: Kaoh Rong,32,Anna Khait,466,Anna,26,Brooklyn,New York,ENFP,5,13,6,5th voted out,,Gondol,Gondol,,,5,0,Anna,1988-09-17,,Female,,,Pro Poker Player
+Survivor: Kaoh Rong,32,Alecia Holden,465,Alecia,24,Dallas,Texas,ESFP,4,11,5,4th voted out,,To Tang,,,,8,0,Alecia,1991-08-03,,Female,,,Real Estate Agent
+Survivor: Kaoh Rong,32,Caleb Reynolds,464,Caleb,27,Hopkinsville,Kentucky,ESFP,4,9,4,Medically evacuated,,Gondol,,,,0,0,Caleb,1987-11-27,,Male,,,Army Veteran
+Survivor: Kaoh Rong,32,Elisabeth Markham,463,Liz,27,New York City,New York,INTJ,3,8,3,3rd voted out,,Chan Loh,,,,5,0,Liz,1988-08-14,,Female,,,Quantitative Strategist
+Survivor: Kaoh Rong,32,Jennifer Lanzetti,462,Jennifer,38,Salt Lake City,Utah,ESTP,2,6,2,2nd voted out,,To Tang,,,,3,0,Jennifer,1977-07-14,,Female,,,Contractor
+Survivor: Kaoh Rong,32,Darnell Hamilton,461,Darnell,27,Chicago,Illinois,ISFP,1,3,1,1st voted out,,To Tang,,,,7,0,Darnell,1988-02-08,,Male,Black,,Postal Worker
+Survivor: Cambodia,31,Jeremy Collins,433,Jeremy,37,Foxboro,Massachusetts,ESTJ,15,39,20,Sole Survivor,,Bayon,Bayon,Bayon,Orkun,3,1,Jeremy,1978-04-16,,Male,Black,,Cambridge Firefighter
+Survivor: Cambodia,31,Latasha Fox,419,Tasha,38,St. Louis,Missouri,ENFJ,15,39,19,Co-runner-up,,Bayon,Angkor,Bayon,Orkun,8,0,Tasha,1977-01-03,,Female,Black,,Accountant
+Survivor: Cambodia,31,Spencer Bledsoe,421,Spencer,22,Chicago,Illinois,INTJ,15,39,18,Co-runner-up,,Ta Keo,Bayon,Ta Keo,Orkun,11,3,Spencer,1992-06-12,,Male,,,Economics Student
+Survivor: Cambodia,31,Kelley Wentworth,429,Kelley,29,Seattle,Washington,ENTP,14,38,17,16th voted out,10th jury member,Ta Keo,Ta Keo,Bayon,Orkun,17,2,Kelley,1986-06-07,,Female,,,Marketing Manager
+Survivor: Cambodia,31,Keith Nale,439,Keith,54,Keithville,Louisiana,ISTP,14,37,16,15th voted out,9th jury member,Bayon,Ta Keo,Bayon,Orkun,4,1,Keith,1960-08-16,,Male,,,Fire Captain
+Survivor: Cambodia,31,Kimmi Kappenberg,21,Kimmi,42,The Woodlands,Texas,ENFP,14,36,15,14th voted out,8th jury member,Bayon,Bayon,Bayon,Orkun,5,0,Kimmi,1972-11-11,,Female,,,Bartender
+Survivor: Cambodia,31,Abi-Maria Gomes,383,Abi-Maria,35,Los Angeles,California,ESFP,13,35,14,13th voted out,7th jury member,Ta Keo,Angkor,Ta Keo,Orkun,14,0,Abi-Maria,1979-10-21,,Female,Brazilian,Hispanic or Latino,Business Student
+Survivor: Cambodia,31,Joe Anglim,451,Joe,26,Scottsdale,Arizona,ISFP,12,32,13,12th voted out,6th jury member,Bayon,Ta Keo,Bayon,Orkun,8,4,Joe,1988-09-30,,Male,,,Jewelry Designer;Multimedia Artist
+Survivor: Cambodia,31,Stephen Fishbach,280,Stephen,36,New York City,New York,INTP,11,29,12,11th voted out,5th jury member,Bayon,Bayon,Bayon,Orkun,9,0,Stephen,1979-01-24,,Male,White,Jewish,Corporate Consultant
+Survivor: Cambodia,31,Ciera Eastin,406,Ciera,26,Salem,Oregon,INFP,10,26,11,10th voted out,4th jury member,Bayon,Ta Keo,Ta Keo,Orkun,10,0,Ciera,1989-03-05,,Female,,,Cosmetology Student
+Survivor: Cambodia,31,Kelly Wiglesworth,15,Kelly,37,Greensboro,North Carolina,ISFP,9,24,10,9th voted out,3rd jury member,Ta Keo,Bayon,Ta Keo,Orkun,8,0,Kelly,1977-06-24,,Female,,,River Guide
+Survivor: Cambodia,31,Andrew Savage,105,Andrew,51,San Jose,California,ESTJ,8,21,9,8th voted out,2nd jury member,Bayon,Angkor,Ta Keo,Orkun,4,0,Andrew,1963-07-29,,Male,,,Attorney
+Survivor: Cambodia,31,Kassandra McQuillen,422,Kass,43,Tehachapi,California,INTJ,7,19,8,7th voted out,1st jury member,Bayon,Ta Keo,Ta Keo,Orkun,6,0,Kass,1971-11-08,,Female,,,Attorney
+Survivor: Cambodia,31,Yung Hwang,423,Woo,31,Newport Beach,California,ISFP,6,16,7,6th voted out,,Ta Keo,Angkor,Ta Keo,,5,0,Woo,1984-03-16,,Male,Asian,,Martial Arts Instructor
+Survivor: Cambodia,31,Terry Deitz,180,Terry,55,Simsbury,Connecticut,ESTJ,5,13,6,WithdrewFamily,,Ta Keo,Ta Keo,,,0,0,Terry,1959-10-10,,Male,,,Pilot
+Survivor: Cambodia,31,Monica Padilla,295,Monica,30,Queens,New York,ENFP,5,13,5,5th voted out,,Bayon,Bayon,,,3,0,Monica,1984-07-14,,Female,,Hispanic or Latino,Law Student
+Survivor: Cambodia,31,Jeff Varner,23,Jeff,49,Greensboro,North Carolina,ENFP,4,11,4,4th voted out,,Ta Keo,Angkor,,,4,0,Jeff,1966-04-16,,Male,,,Internet Projects Manager
+Survivor: Cambodia,31,Peih-Gee Law,233,Peih-Gee,37,San Francisco,California,ENTP,3,9,3,3rd voted out,,Ta Keo,Angkor,,,4,0,Peih-Gee,1978-04-07,,Female,Asian,,Jeweler
+Survivor: Cambodia,31,Shirin Oskooi,453,Shirin,32,San Francisco,California,ENFP,2,6,2,2nd voted out,,Ta Keo,,,,5,0,Shirin,1983-02-25,,Female,Asian,,Yahoo! Executive
+Survivor: Cambodia,31,Vytas Baskauskas,402,Vytas,35,Santa Monica,California,INFJ,1,3,1,1st voted out,,Ta Keo,,,,6,0,Vytas,1979-12-08,,Male,,,Yoga Instructor/Math Professor
+Survivor: Worlds Apart,30,Mike Holloway,460,Mike,38,North Richland Hills,Texas,ESTP,15,39,18,Sole Survivor,,Escameca,Escameca,,Merica,4,5,Mike,1976-07-25,,Male,,,Oil Driller
+Survivor: Worlds Apart,30,Carolyn Rivera,459,Carolyn,52,Tampa,Florida,ENTP,15,39,17,Co-runner-up,,Masaya,Nagarote,,Merica,9,2,Carolyn,1961-10-07,,Female,,,Corporate Executive
+Survivor: Worlds Apart,30,Will Sims II,458,Will,41,Sherman Oaks,California,ISFP,15,39,16,Co-runner-up,,Nagarote,Nagarote,,Merica,4,0,Will,1972-08-13,,Male,Black,,YouTube Sensation
+Survivor: Worlds Apart,30,Rodney Lavoie Jr.,457,Rodney,24,Boston,Massachusetts,ESTJ,14,38,15,15th voted out,8th jury member,Escameca,Escameca,,Merica,5,0,Rodney,1989-09-02,,Male,,,General Contractor
+Survivor: Worlds Apart,30,Sierra Dawn Thomas,456,Sierra,27,Roy,Utah,ISFJ,14,37,14,14th voted out,7th jury member,Escameca,Escameca,,Merica,6,0,Sierra,1986-12-18,,Female,,,Barrel Racer
+Survivor: Worlds Apart,30,Dan Foley,455,Dan,47,Gorham,Maine,ESTJ,13,35,13,13th voted out,6th jury member,Escameca,Escameca,,Merica,9,0,Dan,1967-02-05,,Male,,,Postal Worker
+Survivor: Worlds Apart,30,Tyler Fredrickson,454,Tyler,33,Los Angeles,California,ENFP,12,32,12,12th voted out,5th jury member,Masaya,Escameca,,Merica,5,1,Tyler,1981-02-26,,Male,,,Ex-Talent Agent Assistant
+Survivor: Worlds Apart,30,Shirin Oskooi,453,Shirin,31,San Francisco,California,ENFP,11,29,11,11th voted out,4th jury member,Masaya,Nagarote,,Merica,7,0,Shirin,1983-02-25,,Female,Asian,,Yahoo! Executive
+Survivor: Worlds Apart,30,Jenn Brown,452,Jenn,22,Long Beach,California,ESTP,10,27,10,10th voted out,3rd jury member,Nagarote,Nagarote,,Merica,18,0,Jenn,1992-01-27,,Female,,,Sailing Instructor
+Survivor: Worlds Apart,30,Joe Anglim,451,Joe,25,Scottsdale,Arizona,ISFP,9,24,9,9th voted out,2nd jury member,Nagarote,Escameca,,Merica,8,2,Joe,1988-09-30,,Male,,,Jewelry Designer;Multimedia Artist
+Survivor: Worlds Apart,30,Hali Ford,450,Hali,25,San Francisco,California,INFP,8,22,8,8th voted out,1st jury member,Nagarote,Nagarote,,Merica,8,0,Hali,1989-07-20,,Female,,,Law Student
+Survivor: Worlds Apart,30,Kelly Remington,449,Kelly,44,Grand Island,New York,ISTJ,7,19,7,7th voted out,,Escameca,Nagarote,,Merica,4,0,Kelly,1970-04-27,,Female,,,State Trooper
+Survivor: Worlds Apart,30,Joaquin Souberbielle,448,Joaquin,27,Valley Stream,New York,ISTP,6,16,6,6th voted out,,Masaya,Escameca,,,4,0,Joaquin,1986-08-16,,Male,,Hispanic or Latino,Marketing Director
+Survivor: Worlds Apart,30,Max Dawson,447,Max,37,Topanga,California,ENTP,5,14,5,5th voted out,,Masaya,Nagarote,,,5,0,Max,1977-03-31,,Male,White,Jewish,Media Consultant
+Survivor: Worlds Apart,30,Lindsey Cascaddan,446,Lindsey,24,College Park,Florida,ENFP,4,11,4,4th voted out,,Escameca,,,,5,0,Lindsey,1989-08-24,,Female,,,Hairdresser
+Survivor: Worlds Apart,30,Nina Poersch,445,Nina,51,Palmdale,California,ISFJ,3,8,3,3rd voted out,,Nagarote,,,,4,0,Nina,1963-01-17,,Female,Asian,,Hearing Advocate
+Survivor: Worlds Apart,30,Vince Sly,444,Vince,32,Santa Monica,California,INFP,2,6,2,2nd voted out,,Nagarote,,,,3,0,Vince,1982-02-16,,Male,,,Coconut Vendor
+Survivor: Worlds Apart,30,So Kim,443,So,31,Long Beach,California,INTJ,1,3,1,1st voted out,,Masaya,,,,4,0,So,1983-01-13,,Female,Asian,,Retail Buyer
+Survivor: San Juan del Sur,29,Natalie Anderson,442,Natalie,28,Edgewater,New Jersey,ESTP,15,39,18,Sole Survivor,,Hunahpu,Hunahpu,,Huyopa,0,1,Natalie,1986-04-11,,Female,Asian,,Crossfit Coach/Physical Therapy Student;CrossFit Trainer
+Survivor: San Juan del Sur,29,Jaclyn Schultz,441,Jaclyn,25,Las Vegas,Nevada,ESFP,15,39,17,Runner-up,,Coyopa,Coyopa,,Huyopa,6,1,Jaclyn,1988-08-16,,Female,,,Media Buyer
+Survivor: San Juan del Sur,29,Missy Payne,440,Missy,47,Dallas,Texas,ESFJ,15,39,16,2nd runner-up,,Hunahpu,Coyopa,,Huyopa,3,0,Missy,1967-06-10,,Female,,,Competitive Cheerleading Gym Owner
+Survivor: San Juan del Sur,29,Keith Nale,439,Keith,53,Shreveport,Louisiana,ISTP,14,38,15,14th voted out,8th jury member,Hunahpu,Coyopa,,Huyopa,16,3,Keith,1960-08-16,,Male,,,Fire Captain
+Survivor: San Juan del Sur,29,Baylor Wilson,438,Baylor,20,Nashville,Tennessee,ESFP,14,37,14,13th voted out,7th jury member,Coyopa,Coyopa,,Huyopa,17,1,Baylor,1994-01-25,,Male,,,Student
+Survivor: San Juan del Sur,29,Jon Misch,437,Jon,26,Waterford,Michigan,ESFP,13,35,13,12th voted out,6th jury member,Hunahpu,Coyopa,,Huyopa,8,1,Jon,1988-03-29,,Male,,,Financial Assistant
+Survivor: San Juan del Sur,29,Alec Christy,436,Alec,22,Winter Park,Florida,ISFP,12,32,12,11th voted out,5th jury member,Coyopa,Hunahpu,,Huyopa,4,0,Alec,1991-09-07,,Male,,,Student
+Survivor: San Juan del Sur,29,Reed Kelly,435,Reed,31,New York City,New York,ENTJ,11,29,11,10th voted out,4th jury member,Hunahpu,Hunahpu,,Huyopa,10,1,Reed,1982-09-05,,Male,,,Broadway Performer/Model/Aerialist
+Survivor: San Juan del Sur,29,Wes Nale,434,Wes,23,Shreveport,Louisiana,ISTP,10,26,10,9th voted out,3rd jury member,Coyopa,Hunahpu,,Huyopa,2,0,Wes,1990-06-19,,Male,,,Firefighter
+Survivor: San Juan del Sur,29,Jeremy Collins,433,Jeremy,36,Foxboro,Massachusetts,ESTJ,9,24,9,8th voted out,2nd jury member,Hunahpu,Hunahpu,,Huyopa,5,1,Jeremy,1978-04-16,,Male,Black,,Cambridge Firefighter
+Survivor: San Juan del Sur,29,Josh Canfield,432,Josh,32,New York City,New York,INFJ,8,21,8,7th voted out,1st jury member,Coyopa,Hunahpu,,Huyopa,6,0,Josh,1981-07-01,,Male,,,Singer/Actor/Writer
+Survivor: San Juan del Sur,29,Julie McGee,431,Julie,34,Atlanta,Georgia,ISFP,7,18,7,Quit,,Hunahpu,Hunahpu,,Huyopa,2,0,Julie,1980-01-24,,Female,,,Model/Owner of Spray Tan Business
+Survivor: San Juan del Sur,29,Dale Wentworth,430,Dale,55,Ephrata,Washington,ISTJ,6,15,6,6th voted out,,Coyopa,Coyopa,,,8,0,Dale,1959-03-07,,Male,,,Farmer
+Survivor: San Juan del Sur,29,Kelley Wentworth,429,Kelley,28,Seattle,Washington,ENTP,5,13,5,5th voted out,,Hunahpu,Coyopa,,,4,0,Kelley,1986-06-07,,Female,,,Marketing Manager
+Survivor: San Juan del Sur,29,Drew Christy,428,Drew,25,Winter Park,Florida,ESTP,4,10,4,4th voted out,,Hunahpu,,,,5,0,Drew,1989-05-18,,Male,,,Traveling Sales Representative
+Survivor: San Juan del Sur,29,John Rocker,427,John,39,Atlanta,Georgia,ESTP,3,8,3,3rd voted out,,Coyopa,,,,5,0,John,1974-10-17,,Male,,,Former MLB Player
+Survivor: San Juan del Sur,29,Val Collins,426,Val,35,Foxboro,Massachusetts,INTJ,2,6,2,2nd voted out,,Coyopa,,,,9,0,Val,1978-11-08,,Female,Black,,Foxboro Police Officer
+Survivor: San Juan del Sur,29,Nadiya Anderson,425,Nadiya,28,Edgewater,New Jersey,ESFP,1,3,1,1st voted out,,Coyopa,,,,5,0,Nadiya,1986-04-11,,Female,Asian,,Crossfit Coach/Project Coordinator
+Survivor: Cagayan,28,Tony Vlachos,424,Tony,39,Jersey City,New Jersey,ESTP,14,39,18,Sole Survivor,,Aparri,Solana,,Solarrion,5,0,Tony,1973-09-10,,Male,,,Police Officer
+Survivor: Cagayan,28,Yung Hwang,423,Woo,29,Newport Beach,California,ISFP,14,39,17,Runner-up,,Aparri,Solana,,Solarrion,4,1,Woo,1984-03-16,,Male,Asian,,Martial Arts Instructor
+Survivor: Cagayan,28,Kassandra McQuillen,422,Kass,41,Tehachapi,California,INTJ,13,38,16,15th voted out,9th jury member,Luzon,Aparri,,Solarrion,2,1,Kass,1971-11-08,,Female,,,Attorney
+Survivor: Cagayan,28,Spencer Bledsoe,421,Spencer,21,Chicago,Illinois,INTJ,13,37,15,14th voted out,8th jury member,Luzon,Aparri,,Solarrion,8,3,Spencer,1992-06-12,,Male,,,Economics Student
+Survivor: Cagayan,28,Trish Hegarty,420,Trish,48,Needham,Massachusetts,ENFJ,12,36,14,13th voted out,7th jury member,Aparri,Solana,,Solarrion,5,0,Trish,1965-10-09,,Male,,,Pilates Trainer
+Survivor: Cagayan,28,Latasha Fox,419,Tasha,37,St. Louis,Missouri,ENFJ,11,33,13,12th voted out,6th jury member,Luzon,Aparri,,Solarrion,4,3,Tasha,1977-01-03,,Female,Black,,Accountant
+Survivor: Cagayan,28,Jefra Bland,418,Jefra,22,Campbellsville,Kentucky,ISFJ,10,30,12,11th voted out,5th jury member,Solana,Solana,,Solarrion,9,0,Jefra,1990-07-02,,Male,,,Miss Kentucky Teen USA
+Survivor: Cagayan,28,Jeremiah Wood,417,Jeremiah,34,Dobson,North Carolina,ISFP,9,28,11,10th voted out,4th jury member,Solana,Aparri,,Solarrion,9,0,Jeremiah,1979-06-15,,Male,,,Male Model
+Survivor: Cagayan,28,LJ McKanas,416,LJ,34,Boston,Massachusetts,ISTP,8,25,10,9th voted out,3rd jury member,Solana,Solana,,Solarrion,8,0,LJ,1979-01-08,,Male,,,Horse Trainer
+Survivor: Cagayan,28,Morgan McLeod,415,Morgan,21,San Jose,California,ISFP,7,22,9,8th voted out,2nd jury member,Solana,Aparri,,Solarrion,8,0,Morgan,1992-07-09,,Female,,,Ex-NFL Cheerleader
+Survivor: Cagayan,28,Sarah Lacina,414,Sarah,29,Cedar Rapids,Iowa,ENTJ,6,19,8,7th voted out,1st jury member,Aparri,Aparri,,Solarrion,6,0,Sarah,1984-07-09,,Female,,,Police Officer
+Survivor: Cagayan,28,Alexis Maxwell,413,Alexis,21,Addison,Illinois,ENFP,5,16,7,6th voted out,,Solana,Aparri,,,8,0,Alexis,1992-03-17,,Female,,Hispanic or Latino,Student
+Survivor: Cagayan,28,Lindsey Ogle,412,Lindsey,29,Kokomo,Indiana,ESFP,4,14,6,Quit,,Aparri,Solana,,,0,0,Lindsey,1983-09-04,,Female,,,Hairstylist
+Survivor: Cagayan,28,Cliff Robinson,411,Cliff,46,Buffalo,New York,ISTP,4,14,5,5th voted out,,Aparri,Solana,,,4,0,Cliff,1966-12-16,2020-08-29,Male,Black,,Former NBA All-Star
+Survivor: Cagayan,28,J'Tia Taylor,410,J'Tia,31,Chicago,Illinois,ENTJ,3,11,4,4th voted out,,Luzon,,,,7,0,J'Tia,1981-09-01,,Female,Black,,Nuclear Engineer
+Survivor: Cagayan,28,Brice Johnston,409,Brice,27,Philadelphia,Pennsylvania,ENFP,2,8,3,3rd voted out,,Solana,,,,5,0,Brice,1986-02-20,,Male,Black,,Social Worker
+Survivor: Cagayan,28,Garrett Adelstein,408,Garrett,27,Santa Monica,California,INTP,1,6,2,2nd voted out,,Luzon,,,,3,0,Garrett,1986-05-16,,Male,White,Jewish,Pro Poker Player
+Survivor: Cagayan,28,David Samson,407,David,45,Plantation,Florida,ENTJ,1,3,1,1st voted out,,Luzon,,,,4,0,David,1968-02-26,,Male,White,Jewish,Miami Marlins President
+Survivor: Blood vs. Water,27,Tyson Apostol,274,Tyson,34,Provo,Utah,ESTP,15,39,23,Sole Survivor,,Galang,Tadhana,,Kasama,2,2,Tyson,1979-06-17,,Male,,,Former Professional Cyclist/Missionary;Shop Manager
+Survivor: Blood vs. Water,27,Monica Culpepper,358,Monica,42,Tampa,Florida,ESFJ,15,39,22,Runner-up,,Galang,Galang,,Kasama,6,3,Monica,1970-06-15,,Female,,,Ex-NFL Player's Wife;Homemaker
+Survivor: Blood vs. Water,27,Gervase Peterson,10,Gervase,43,Philadelphia,Pennsylvania,ESTP,15,39,21,2nd runner-up,,Galang,Tadhana,,Kasama,6,1,Gervase,1969-11-02,,Male,Black,,YMCA Basketball Coach;Cigar Lounge Owner
+Survivor: Blood vs. Water,27,Tina Wesson,32,Tina,52,Robbinsville,North Carolina,ESFJ,14,38,20,17th voted out,8th jury member,Galang,Galang,,Kasama,10,0,Tina,1960-12-26,,Female,,,Personal Nurse;Motivational Speaker
+Survivor: Blood vs. Water,27,Ciera Eastin,406,Ciera,24,Salem,Oregon,INFP,14,37,19,16th voted out,7th jury member,Tadhana,Tadhana,,Kasama,14,1,Ciera,1989-03-05,,Female,,,Cosmetology Student
+Survivor: Blood vs. Water,27,Hayden Moss,405,Hayden,27,Springtown,Texas,ESFP,13,35,18,15th voted out,5th jury member,Tadhana,Tadhana,,Kasama,8,0,Hayden,1986-05-27,,Male,,,Real Estate
+Survivor: Blood vs. Water,27,Katie Collins,404,Katie,25,New York City,New York,INTP,12,32,17,Eliminated,4th jury member,Tadhana,Galang,,Kasama,4,1,Katie,1987-06-27,,Female,,,Hedge Fund Support
+Survivor: Blood vs. Water,27,Caleb Bankston,403,Caleb,26,Collinsville,Alabama,ISTP,11,29,16,14th voted out,3rd jury member,Tadhana,Tadhana,,Kasama,4,0,Caleb,1987-03-26,2014-06-24,Male,,,Post Office Manager/Farmer
+Survivor: Blood vs. Water,27,Laura Morett,292,Laura M.,43,Salem,Oregon,ENFJ,10,26,15,13th voted out,6th jury member,Galang,,,Kasama,19,0,Laura M.,1969-07-30,,Female,,,Office Manager;Fitness Instructor
+Survivor: Blood vs. Water,27,Tina Wesson,32,Tina,52,Robbinsville,North Carolina,ESFJ,9,24,14,12th voted out,,Galang,Galang,,Kasama,10,0,Tina,1960-12-26,,Female,,,Personal Nurse;Motivational Speaker
+Survivor: Blood vs. Water,27,Vytas Baskauskas,402,Vytas,33,Santa Monica,California,INFJ,9,22,13,11th voted out,2nd jury member,Tadhana,Galang,,Kasama,10,1,Vytas,1979-12-08,,Male,,,Yoga Instructor/Math Professor
+Survivor: Blood vs. Water,27,Aras Baskauskas,182,Aras,31,Santa Monica,California,INFP,8,21,12,10th voted out,1st jury member,Galang,Tadhana,,Kasama,7,0,Aras,1981-09-26,,Male,,,Yoga Instructor;Musician
+Survivor: Blood vs. Water,27,Laura Boneham,397,Laura B.,44,Indianapolis,Indiana,,7,18,11,9th voted out,,Tadhana,Galang,,,10,0,Laura B.,1968-08-29,,Female,,,Merchandiser
+Survivor: Blood vs. Water,27,Kat Edorsson,365,Kat,23,Orlando,Florida,ENFP,6,16,10,8th voted out,,Galang,Galang,,,5,0,Kat,1989-06-22,,Female,,,Timeshare Representative;Full Time Student/Sales
+Survivor: Blood vs. Water,27,Laura Morett,292,Laura M.,43,Salem,Oregon,ENFJ,5,13,9,7th voted out,,Galang,,,,19,0,Laura M.,1969-07-30,,Female,,,Office Manager;Fitness Instructor
+Survivor: Blood vs. Water,27,Brad Culpepper,401,Brad,44,Tampa,Florida,ESTJ,4,10,8,6th voted out,,Tadhana,,,,7,0,Brad,1969-05-08,,Male,,,Attorney/Retired NFL Player
+Survivor: Blood vs. Water,27,John Cody,400,John,30,Washington,D.C.,ISFJ,3,8,7,5th voted out,,Tadhana,,,,8,0,John,1983-05-12,,Male,,,"Physician, Army Orthopedic Surgery Resident"
+Survivor: Blood vs. Water,27,Colton Cumbie,359,Colton,22,Collinsville,Alabama,ESFP,3,7,6,Quit,,Galang,,,,0,0,Colton,1990-11-22,,Male,,,Student;Student Teacher
+Survivor: Blood vs. Water,27,Rachel Foulger,399,Rachel,33,Provo,Utah,ISFJ,2,6,5,4th voted out,,Tadhana,,,,5,0,Rachel,1979-07-28,,Female,,,Cocktail Waitress/Graphic Designer
+Survivor: Blood vs. Water,27,Marissa Peterson,398,Marissa,21,Chapel Hill,North Carolina,ESTJ,1,3,4,3rd voted out,,Tadhana,,,,10,0,Marissa,1991-09-25,,Female,Black,,Student
+Survivor: Blood vs. Water,27,Rupert Boneham,107,Rupert,49,Indianapolis,Indiana,ESFJ,1,1,3,Switched,,Galang,,,,0,0,Rupert,1964-01-27,,Male,,,Troubled Teens Mentor
+Survivor: Blood vs. Water,27,Candice Cody,195,Candice,30,Washington,D.C.,ISTJ,1,1,2,2nd voted out,,Galang,,,,5,0,Candice,1982-11-12,,Female,,,Pre-Med Student;Physician/Anesthesiology Resident
+Survivor: Blood vs. Water,27,Laura Boneham,397,Laura B.,44,Indianapolis,Indiana,,1,1,1,1st voted out,,Tadhana,,,,10,0,Laura B.,1968-08-29,,Female,,,Merchandiser
+Survivor: Caramoan,26,John Cochran,348,Cochran,25,Washington,D.C.,INTP,15,39,20,Sole Survivor,,Bikal,Bikal,,Enil Edam,0,4,Cochran,1987-01-17,,Male,White,Jewish,Harvard Law Student
+Survivor: Caramoan,26,Dawn Meehan,346,Dawn,42,South Jordan,Utah,ESFJ,15,39,19,Co-runner-up,,Bikal,Bikal,,Enil Edam,2,1,Dawn,1970-06-29,,Female,,,English Professor
+Survivor: Caramoan,26,Sherri Biethman,396,Sherri,41,Boise,Idaho,ESFJ,15,39,18,Co-runner-up,,Gota,Gota,,Enil Edam,6,0,Sherri,1971-09-09,,Female,,,Fast Food Franchisee
+Survivor: Caramoan,26,Edward Fox,395,Eddie,23,East Brunswick,New Jersey,ESFP,14,38,17,15th voted out,8th jury member,Gota,Gota,,Enil Edam,16,0,Eddie,1989-04-15,,Male,,,Fireman/EMT
+Survivor: Caramoan,26,Erik Reichenbach,246,Erik,27,Santa Clarita,California,INTP,13,36,16,Medically evacuated,7th jury member,Bikal,Gota,,Enil Edam,2,1,Erik,1985-11-27,,Male,,,Ice Cream Scooper;Comic Book Artist
+Survivor: Caramoan,26,Brenda Lowe,312,Brenda,29,Miami,Florida,INTJ,13,36,15,14th voted out,6th jury member,Bikal,Gota,,Enil Edam,5,1,Brenda,1982-11-03,,Female,Asian,Hispanic or Latino,Paddleboard Company Owner
+Survivor: Caramoan,26,Andrea Boehlke,333,Andrea,23,New York City,New York,ENFP,12,33,14,13th voted out,5th jury member,Bikal,Gota,,Enil Edam,13,1,Andrea,1989-05-10,,Female,,,Student;Entertainment Host/Writer
+Survivor: Caramoan,26,Reynold Toepfer,394,Reynold,30,San Francisco,California,ESTP,12,31,13,12th voted out,4th jury member,Gota,Gota,,Enil Edam,9,1,Reynold,1982-10-06,,Male,,,Real Estate Sales
+Survivor: Caramoan,26,Malcolm Freberg,384,Malcolm,25,Hermosa Beach,California,ENTP,11,30,12,11th voted out,3rd jury member,Bikal,Gota,,Enil Edam,11,0,Malcolm,1987-05-07,,Male,,,Bartender
+Survivor: Caramoan,26,Phillip Sheppard,337,Phillip,54,Santa Monica,California,ESTJ,10,28,11,10th voted out,2nd jury member,Bikal,Bikal,,Enil Edam,5,0,Phillip,1958-03-12,,Male,Black,,Former Federal Agent;Software Sales
+Survivor: Caramoan,26,Michael Snow,393,Michael,44,New York City,New York,INFJ,9,25,10,9th voted out,1st jury member,Gota,Bikal,,Enil Edam,10,0,Michael,1968-08-30,,Male,,,Event Planner
+Survivor: Caramoan,26,Corinne Kaplan,259,Corinne,33,Los Angeles,California,ENTJ,8,22,9,8th voted out,,Bikal,Bikal,,Enil Edam,7,0,Corinne,1979-01-17,,Female,White,Jewish,Pharmaceutical Sales;Clinical Consultant
+Survivor: Caramoan,26,Julia Landauer,392,Julia,21,Stanford,California,ISTJ,7,19,8,7th voted out,,Gota,Bikal,,,9,0,Julia,1991-11-12,,Female,,,Racecar Driver
+Survivor: Caramoan,26,Matt Bischoff,391,Matt,38,Cincinnati,Ohio,INFP,6,16,7,6th voted out,,Gota,Bikal,,,4,0,Matt,1974-04-04,,Male,,,BMX Bike Sales
+Survivor: Caramoan,26,Brandon Hantz,350,Brandon,20,Katy,Texas,ESFP,5,13,6,5th voted out,,Bikal,,,,8,0,Brandon,1991-10-15,,Male,,,Oil Tanker Crewman;Chemical Disposal
+Survivor: Caramoan,26,Laura Alexander,390,Laura,23,Washington,D.C.,ENTP,4,10,5,4th voted out,,Gota,,,,6,0,Laura,1989-09-12,,Female,,,Administrative Officer
+Survivor: Caramoan,26,Shamar Thomas,389,Shamar,27,Brooklyn,New York,INFP,4,10,4,Medically evacuated,,Gota,,,,8,0,Shamar,1985-09-27,,Male,Black,,Iraq War Veteran
+Survivor: Caramoan,26,Hope Driskill,388,Hope,23,Jefferson City,Missouri,ISFP,3,7,3,3rd voted out,,Gota,,,,8,0,Hope,1989-07-06,,Female,,,Pre-Law Student
+Survivor: Caramoan,26,Alexandra Pohevitz,387,Allie,25,Oceanside,New York,ESTP,2,5,2,2nd voted out,,Gota,,,,6,0,Allie,1987-12-24,,Female,,,Bartender
+Survivor: Caramoan,26,Francesca Hogi,322,Francesca,38,Brooklyn,New York,INFJ,1,3,1,1st voted out,,Bikal,,,,6,0,Francesca,1973-11-03,,Female,Black,,Attorney
+Survivor: Philippines,25,Denise Stapley,386,Denise,41,Cedar Rapids,Iowa,INFJ,15,39,18,Sole Survivor,,Matsing,Kalabaw,,Dangrayne,6,1,Denise,1971-01-01,,Female,,,Sex Therapist
+Survivor: Philippines,25,Michael Skupin,22,Michael,50,White Lake,Michigan,ESFJ,15,39,17,Co-runner-up,,Tandang,Tandang,,Dangrayne,0,2,Michael,1962-01-29,,Male,,,Software Publisher;Part-Time Professional Speaker
+Survivor: Philippines,25,Lisa Whelchel,385,Lisa,49,Dallas,Texas,INFP,15,39,16,Co-runner-up,,Tandang,Tandang,,Dangrayne,0,0,Lisa,1963-05-29,,Female,,,Former TV Teen Star
+Survivor: Philippines,25,Malcolm Freberg,384,Malcolm,25,Hermosa Beach,California,ENTP,14,38,15,14th voted out,8th jury member,Matsing,Tandang,,Dangrayne,6,2,Malcolm,1987-05-07,,Male,,,Bartender
+Survivor: Philippines,25,Abi-Maria Gomes,383,Abi-Maria,32,Los Angeles,California,ESFP,13,36,14,13th voted out,7th jury member,Tandang,Tandang,,Dangrayne,9,0,Abi-Maria,1979-10-21,,Female,Brazilian,Hispanic or Latino,Business Student
+Survivor: Philippines,25,Carter Williams,382,Carter,23,Shawnee,Kansas,ISFP,12,33,13,12th voted out,6th jury member,Kalabaw,Kalabaw,,Dangrayne,5,2,Carter,1987-05-26,,Male,,,Track Coach
+Survivor: Philippines,25,Jonathan Penner,196,Jonathan,50,Los Angeles,California,ENTP,11,30,12,11th voted out,5th jury member,Kalabaw,Kalabaw,,Dangrayne,14,1,Jonathan,1962-03-05,,Male,White,Jewish,Writer
+Survivor: Philippines,25,Peter Yurkowski,381,Pete,24,Holmdel,New Jersey,INTP,10,27,11,10th voted out,4th jury member,Tandang,Tandang,,Dangrayne,9,0,Pete,1988-03-03,,Male,,,Engineering Graduate
+Survivor: Philippines,25,Artis Silvester,380,Artis,53,Terrytown,Louisiana,ISTJ,9,25,10,9th voted out,3rd jury member,Tandang,Tandang,,Dangrayne,5,0,Artis,1959-04-18,,Male,Black,,Computer Engineer
+Survivor: Philippines,25,Jeff Kent,379,Jeff,44,Austin,Texas,ISTP,8,22,9,8th voted out,2nd jury member,Kalabaw,Kalabaw,,Dangrayne,5,0,Jeff,1968-03-07,,Male,,,Retired MLB Player
+Survivor: Philippines,25,Roberta Saint-Amour,378,RC,27,New York City,New York,ENTJ,7,19,8,7th voted out,1st jury member,Tandang,Tandang,,Dangrayne,4,0,RC,1985-05-10,,Female,,Jewish,Investment Banker
+Survivor: Philippines,25,Katie Hanson,377,Katie,22,Newark,Delaware,ENTP,6,16,7,6th voted out,,Kalabaw,Kalabaw,,,4,0,Katie,1989-11-29,,Female,,,Former Miss Delaware
+Survivor: Philippines,25,Sarah Dawson,376,Dawson,28,Silver Spring,Maryland,ENFP,5,13,6,5th voted out,,Kalabaw,Kalabaw,,,5,0,Dawson,1983-11-15,,Female,Black,,Insurance Sales
+Survivor: Philippines,25,Dana Lambert,375,Dana,32,Winston-Salem,North Carolina,ISTP,5,12,5,Quit,,Kalabaw,Kalabaw,,,0,0,Dana,1979-12-13,,Female,,,Cosmetologist
+Survivor: Philippines,25,Russell Swan,288,Russell,45,Glenside,Pennsylvania,ESFJ,4,10,4,4th voted out,,Matsing,,,,4,0,Russell S.,1967-02-17,,Male,Black,,Attorney
+Survivor: Philippines,25,Angie Layton,374,Angie,20,Provo,Utah,INFP,3,8,3,3rd voted out,,Matsing,,,,4,0,Angie,1991-10-08,,Female,,,Model/Student
+Survivor: Philippines,25,Roxanne Morris,373,Roxy,28,Brooklyn,New York,ESFP,2,6,2,2nd voted out,,Matsing,,,,4,0,Roxy,1984-06-03,,Female,Black,,Seminary Student
+Survivor: Philippines,25,Zane Knight,372,Zane,28,Danville,Virginia,ENTP,1,3,1,1st voted out,,Matsing,,,,5,0,Zane,1984-02-20,,Male,,,Tire Repair
+Survivor: One World,24,Kim Spradlin,371,Kim,29,San Antonio,Texas,INFJ,15,39,18,Sole Survivor,,Salani,Salani,,Tikiano,3,4,Kim,1983-01-30,,Female,,,Bridal Shop Owner;Interior Designer
+Survivor: One World,24,Sabrina Thompson,370,Sabrina,33,Brooklyn,New York,ENFJ,15,39,17,Runner-up,,Salani,Salani,,Tikiano,2,0,Sabrina,1978-03-06,,Female,Black,,High School Teacher
+Survivor: One World,24,Chelsea Meissner,369,Chelsea,26,Charleston,South Carolina,ISFP,15,39,16,2nd runner-up,,Salani,Salani,,Tikiano,4,1,Chelsea,1985-06-13,,Female,,,Medical Sales
+Survivor: One World,24,Christina Cha,368,Christina,29,Hollywood,California,INFP,14,38,15,13th voted out,9th jury member,Salani,Manono,,Tikiano,9,0,Christina,1982-09-26,,Female,Asian,,Career Consultant
+Survivor: One World,24,Alicia Rosa,367,Alicia,25,Chicago,Illinois,ESTJ,14,37,14,12th voted out,8th jury member,Salani,Manono,,Tikiano,5,1,Alicia,1987-01-11,,Female,,Hispanic or Latino,Special Education Teacher
+Survivor: One World,24,Greg Smith,366,Tarzan,64,Houston,Texas,INTP,13,36,13,11th voted out,7th jury member,Manono,Manono,,Tikiano,16,0,Tarzan,1947-12-12,,Male,,,Plastic Surgeon
+Survivor: One World,24,Kat Edorsson,365,Kat,22,Orlando,Florida,ENFP,12,33,12,10th voted out,6th jury member,Salani,Salani,,Tikiano,7,0,Kat,1989-06-22,,Female,,,Timeshare Representative;Full Time Student/Sales
+Survivor: One World,24,Troy Robertson,364,Troyzan,50,Miami,Florida,ESFP,11,30,11,9th voted out,5th jury member,Manono,Salani,,Tikiano,6,2,Troyzan,1961-07-30,,Male,,,Swimsuit Photographer
+Survivor: One World,24,Leif Manson,363,Leif,27,San Diego,California,ISFP,10,27,10,8th voted out,4th jury member,Manono,Manono,,Tikiano,5,0,Leif,1984-02-01,,Male,,,Phlebotomist
+Survivor: One World,24,Jay Byars,362,Jay,25,Gaffney,South Carolina,ISFP,9,25,9,7th voted out,3rd jury member,Manono,Salani,,Tikiano,5,1,Jay,1986-11-05,,Male,,,Model
+Survivor: One World,24,Michael Jefferson,361,Michael,30,Seattle,Washington,ISTJ,8,22,8,6th voted out,2nd jury member,Manono,Salani,,Tikiano,9,0,Michael,1981-08-29,,Male,,,Banker
+Survivor: One World,24,Jonas Otsuji,360,Jonas,37,Lehi,Utah,ENTP,7,20,7,5th voted out,1st jury member,Manono,Manono,,Tikiano,10,0,Jonas,1974-03-25,,Male,Asian,,Sushi Chef
+Survivor: One World,24,Colton Cumbie,359,Colton,21,Monroeville,Alabama,ESFP,6,16,6,Medically evacuated,,Manono,Manono,,,1,0,Colton,1990-11-22,,Male,,,Student;Student Teacher
+Survivor: One World,24,Monica Culpepper,358,Monica,41,Tampa,Florida,ESFJ,5,14,5,4th voted out,,Salani,Manono,,,5,0,Monica,1970-06-15,,Female,,,Ex-NFL Player's Wife;Homemaker
+Survivor: One World,24,Bill Posley,357,Bill,28,Venice,California,ENFP,4,11,4,3rd voted out,,Manono,,,,8,0,Bill,1983-09-28,,Male,Black,,Stand-Up Comedian
+Survivor: One World,24,Matt Quinlan,356,Matt,33,San Francisco,California,ENTJ,3,8,3,2nd voted out,,Manono,,,,10,0,Matt,1978-04-05,,Male,,,Attorney
+Survivor: One World,24,Nina Acosta,355,Nina,51,Clovis,California,ISTJ,2,5,2,1st voted out,,Salani,,,,6,0,Nina,1960-04-03,,Female,,,Retired LAPD Officer
+Survivor: One World,24,Kourtney Moon,354,Kourtney,29,Austin,Texas,ISFP,1,3,1,Medically evacuated,,Salani,,,,0,0,Kourtney,1982-02-27,,Female,,,Motorcycle Repair
+Survivor: South Pacific,23,Sophie Clarke,353,Sophie,22,Willsboro,New York,INTJ,16,39,20,Sole Survivor,,Upolu,,,Te Tuna,5,3,Sophie,1989-07-10,,Female,,,Medical Student;Healthcare Consultant
+Survivor: South Pacific,23,Benjamin Wade,277,Coach,39,Susanville,California,ENFJ,16,39,19,Runner-up,,Upolu,,,Te Tuna,0,1,Coach,1971-09-18,,Male,,,Soccer Coach/Musician
+Survivor: South Pacific,23,Albert Destrade,352,Albert,26,Plantation,Florida,ENTJ,16,39,18,2nd runner-up,,Upolu,,,Te Tuna,1,1,Albert,1985-03-31,,Male,Black,Hispanic or Latino,Baseball/Dating Coach­­­­
+Survivor: South Pacific,23,Oscar Lusth,201,Ozzy,29,Venice,California,ISFP,15,38,17,17th voted out,9th jury member,Savaii,,,Te Tuna,17,2,Ozzy,1981-08-23,,Male,Mexican American,Hispanic or Latino,Waiter;Photographer
+Survivor: South Pacific,23,Rick Nelson,351,Rick,51,Aurora,Utah,ISFJ,15,37,16,16th voted out,8th jury member,Upolu,,,Te Tuna,15,0,Rick,1959-10-24,,Male,,,Rancher
+Survivor: South Pacific,23,Brandon Hantz,350,Brandon,19,Katy,Texas,ESFP,14,35,15,15th voted out,7th jury member,Upolu,,,Te Tuna,4,1,Brandon,1991-10-15,,Male,,,Oil Tanker Crewman;Chemical Disposal
+Survivor: South Pacific,23,Edna Ma,349,Edna,35,Los Angeles,California,ISTJ,13,32,14,14th voted out,6th jury member,Upolu,,,Te Tuna,17,0,Edna,1975-08-22,,Female,Asian,,Anesthesiologist
+Survivor: South Pacific,23,John Cochran,348,Cochran,24,Washington,D.C.,INTP,12,30,13,13th voted out,5th jury member,Savaii,,,Te Tuna,14,0,Cochran,1987-01-17,,Male,White,Jewish,Harvard Law Student
+Survivor: South Pacific,23,Whitney Duncan,347,Whitney,27,Nashville,Tennessee,ESFP,10,27,12,12th voted out,4th jury member,Savaii,,,Te Tuna,14,1,Whitney,1984-08-03,,Female,,,Country Music Singer
+Survivor: South Pacific,23,Dawn Meehan,346,Dawn,41,South Jordan,Utah,ESFJ,10,27,11,11th voted out,3rd jury member,Savaii,,,Te Tuna,16,1,Dawn,1970-06-29,,Female,,,English Professor
+Survivor: South Pacific,23,Jim Rice,345,Jim,35,Denver,Colorado,ENTP,9,24,10,10th voted out,1st jury member,Savaii,,,Te Tuna,8,1,Jim,1975-09-14,,Male,,,Medical Marijuana Dispenser
+Survivor: South Pacific,23,Oscar Lusth,201,Ozzy,29,Venice,California,ISFP,9,22,9,9th voted out,,Savaii,,,Te Tuna,17,2,Ozzy,1981-08-23,,Male,Mexican American,Hispanic or Latino,Waiter;Photographer
+Survivor: South Pacific,23,Keith Tollefson,344,Keith,26,Edina,Minnesota,ISFP,8,21,8,8th voted out,2nd jury member,Savaii,,,Te Tuna,12,0,Keith,1985-10-01,,Male,,,Water Treatment Tech
+Survivor: South Pacific,23,Oscar Lusth,201,Ozzy,29,Venice,California,ISFP,7,18,7,7th voted out,,Savaii,,,,17,2,Ozzy,1981-08-23,,Male,Mexican American,Hispanic or Latino,Waiter;Photographer
+Survivor: South Pacific,23,Mikayla Wingle,343,Mikayla,22,Tampa,Florida,ISFP,6,16,6,6th voted out,,Upolu,,,,4,0,Mikayla,1989-05-31,,Female,,,Lingerie Football Player
+Survivor: South Pacific,23,Elyse Umemoto,342,Elyse,27,Las Vegas,Nevada,ENFP,5,14,5,5th voted out,,Savaii,,,,3,0,Elyse,1984-05-10,,Female,Asian,Hispanic or Latino,Dance Team Manager
+Survivor: South Pacific,23,Stacey Powell,341,Stacey,44,Grand Prairie,Texas,ISTJ,4,11,4,4th voted out,,Upolu,,,,10,0,Stacey,1967-11-21,,Female,Black,,Mortician
+Survivor: South Pacific,23,Mark Caruso,340,Papa Bear,48,Forest Hills,New York,ESFJ,3,8,3,3rd voted out,,Savaii,,,,6,0,Papa Bear,1963-07-07,,Male,,,Retired NYPD Detective
+Survivor: South Pacific,23,Christine Shields Markoski,339,Christine,39,Merrick,New York,ESTP,2,5,2,2nd voted out,,Upolu,,,,4,0,Christine,1971-06-17,,Female,,Hispanic or Latino,Teacher
+Survivor: South Pacific,23,Semhar Tadesse,338,Semhar,24,Los Angeles,California,ENFP,1,3,1,1st voted out,,Savaii,,,,8,0,Semhar,1986-09-12,,Female,Black,Eritrean,Spoken Word Artist
+Survivor: Redemption Island,22,Rob Mariano,55,Boston Rob,34,Pensacola,Florida,ESTJ,15,39,20,Sole Survivor,,Ometepe,,,Murlonio,9,4,Boston Rob,1975-12-25,,Male,,,Construction Worker
+Survivor: Redemption Island,22,Phillip Sheppard,337,Phillip,52,Santa Monica,California,ESTJ,15,39,19,Runner-up,,Ometepe,,,Murlonio,17,0,Phillip,1958-03-12,,Male,Black,,Former Federal Agent;Software Sales
+Survivor: Redemption Island,22,Natalie Tenerelli,336,Natalie,19,Acton,California,ISFP,15,39,18,2nd runner-up,,Ometepe,,,Murlonio,1,1,Natalie,1991-05-06,,Female,,,Professional Dancer
+Survivor: Redemption Island,22,Ashley Underwood,335,Ashley,25,Benton,Maine,ESTP,14,38,17,17th voted out,9th jury member,Ometepe,,,Murlonio,3,2,Ashley,1985-02-08,,Female,,,Nurse
+Survivor: Redemption Island,22,Andrea Boehlke,333,Andrea,21,Random Lake,Wisconsin,ENFP,14,37,16,16th voted out,8th jury member,Ometepe,,,Murlonio,9,1,Andrea,1989-05-10,,Female,,,Student;Entertainment Host/Writer
+Survivor: Redemption Island,22,Grant Mattos,334,Grant,29,West Hollywood,California,ISFP,13,35,15,15th voted out,5th jury member,Ometepe,,,Murlonio,11,2,Grant,1981-03-12,,Male,,,Ex-NFL Player
+Survivor: Redemption Island,22,Andrea Boehlke,333,Andrea,21,Random Lake,Wisconsin,ENFP,12,32,14,14th voted out,,Ometepe,,,Murlonio,9,1,Andrea,1989-05-10,,Female,,,Student;Entertainment Host/Writer
+Survivor: Redemption Island,22,Steve Wright,332,Steve,51,Huntington Beach,California,ISFJ,11,30,13,13th voted out,3rd jury member,Zapatera,,,Murlonio,15,0,Steve,1959-04-08,,Male,,,Ex-NFL Player
+Survivor: Redemption Island,22,Ralph Kiser,331,Ralph,45,Lebanon,Virginia,ESTP,11,30,12,12th voted out,4th jury member,Zapatera,,,Murlonio,16,0,Ralph,1965-10-27,,Male,,,Farmer
+Survivor: Redemption Island,22,Julie Wolfe,330,Julie,50,Oceanside,California,ISTJ,10,27,11,11th voted out,2nd jury member,Zapatera,,,Murlonio,6,0,Julie,1960-05-11,,Female,,,Firefighter
+Survivor: Redemption Island,22,David Murphy,329,David,31,West Hollywood,California,INTJ,9,24,10,10th voted out,1st jury member,Zapatera,,,Murlonio,8,0,David,1979-07-16,,Male,,,Defense Attorney
+Survivor: Redemption Island,22,Mike Chiesl,328,Mike,31,Del Mar,California,ISFJ,9,22,9,9th voted out,7th jury member,Zapatera,,,Murlonio,6,0,Mike,1979-09-15,,Male,,,Iraq War Veteran
+Survivor: Redemption Island,22,Matt Elrod,323,Matt,22,Nashville,Tennessee,INFP,8,21,8,8th voted out,6th jury member,Ometepe,,,Murlonio,10,0,Matt,1988-10-02,,Male,,,Pre-Med Student
+Survivor: Redemption Island,22,Sarita White,327,Sarita,36,Santa Monica,California,INTP,7,18,7,7th voted out,,Zapatera,,,,6,0,Sarita,1974-10-02,,Female,,,Visual Effects Producer
+Survivor: Redemption Island,22,Stephanie Valencia,326,Stephanie,26,Long Beach,California,ESFP,6,16,6,6th voted out,,Zapatera,,,,8,0,Stephanie,1985-02-03,,Female,,Hispanic or Latino,Waitress
+Survivor: Redemption Island,22,Krista Klumpp,325,Krista,25,Columbia,South Carolina,ISFP,5,13,5,5th voted out,,Zapatera,,,,6,0,Krista,1985-07-27,,Female,,,Pharmaceutical Representative
+Survivor: Redemption Island,22,Kristina Kell,324,Kristina,46,Malibu,California,INTP,4,11,4,4th voted out,,Ometepe,,,,9,0,Kristina,1964-12-26,,Female,,,Law Student
+Survivor: Redemption Island,22,Russell Hantz,300,Russell,37,Dayton,Texas,ESTJ,3,8,3,3rd voted out,,Zapatera,,,,8,0,Russell H.,1972-10-10,,Male,,,Oil Company Owner
+Survivor: Redemption Island,22,Matt Elrod,323,Matt,22,Nashville,Tennessee,INFP,2,5,2,2nd voted out,,Ometepe,,,,10,0,Matt,1988-10-02,,Male,,,Pre-Med Student
+Survivor: Redemption Island,22,Francesca Hogi,322,Francesca,36,Washington,D.C.,INFJ,1,3,1,1st voted out,,Ometepe,,,,4,0,Francesca,1973-11-03,,Female,Black,,Attorney
+Survivor: Nicaragua,21,Jud Birza,321,Fabio,21,Venice,California,ESFP,16,39,20,Sole Survivor,,La Flor,La Flor,,Libertad,2,4,Fabio,1989-06-12,,Male,,,Student
+Survivor: Nicaragua,21,Chase Rice,320,Chase,24,Fairview,North Carolina,ISFP,16,39,19,Runner-up,,La Flor,Espada,,Libertad,1,0,Chase,1985-09-19,,Male,,,Pro Racecar Jackman
+Survivor: Nicaragua,21,Matthew Lenahan,319,Sash,30,New York City,New York,ENTJ,16,39,18,2nd runner-up,,La Flor,La Flor,,Libertad,2,1,Sash,1979-11-22,,Male,Black,,Real Estate Broker
+Survivor: Nicaragua,21,Holly Hoffman,318,Holly,44,Eureka,South Dakota,ENFJ,15,38,17,15th voted out,9th jury member,Espada,Espada,,Libertad,4,1,Holly,1966-03-15,,Female,,,Swim Coach
+Survivor: Nicaragua,21,Dan Lembo,317,Dan,63,Water Mill,New York,ISTP,15,37,16,14th voted out,8th jury member,Espada,Espada,,Libertad,10,0,Dan,1946-11-05,,Male,,,Real Estate Executive
+Survivor: Nicaragua,21,Jane Bright,316,Jane,56,Jackson Springs,North Carolina,ISTP,14,36,15,13th voted out,7th jury member,Espada,La Flor,,Libertad,11,2,Jane,1953-12-13,,Female,,,Dog Trainer
+Survivor: Nicaragua,21,Ben Henry,315,Benry,24,Los Angeles,California,ESTP,13,32,14,12th voted out,6th jury member,La Flor,Espada,,Libertad,5,0,Benry,1986-06-25,,Male,,,Club Promoter
+Survivor: Nicaragua,21,Kelly Shinn,314,Purple Kelly,20,Mesa,Arizona,ENFP,12,28,13,Quit,5th jury member,La Flor,La Flor,,Libertad,0,0,Purple Kelly,1990-05-05,,Female,,,Nursing Student
+Survivor: Nicaragua,21,NaOnka Mixon,313,NaOnka,27,Los Angeles,California,ESTP,11,28,12,Quit,4th jury member,La Flor,Espada,,Libertad,3,0,NaOnka,1983-02-17,,Female,Black,,PE Teacher
+Survivor: Nicaragua,21,Brenda Lowe,312,Brenda,27,Miami,Florida,INTJ,10,27,11,11th voted out,3rd jury member,La Flor,La Flor,,Libertad,15,1,Brenda,1982-11-03,,Female,Asian,Hispanic or Latino,Paddleboard Company Owner
+Survivor: Nicaragua,21,Marty Piombo,311,Marty,48,Mill Valley,California,ENTJ,9,24,10,10th voted out,2nd jury member,Espada,La Flor,,Libertad,19,0,Marty,1961-11-11,,Male,,,Technology Executive
+Survivor: Nicaragua,21,Alina Wilson,310,Alina,23,Downey,California,INFP,8,22,9,9th voted out,1st jury member,La Flor,Espada,,Libertad,10,0,Alina,1987-02-20,,Female,,,Art Student
+Survivor: Nicaragua,21,Jill Behm,309,Jill,43,Erie,Pennsylvania,ISTJ,7,18,8,8th voted out,,Espada,La Flor,,,3,1,Jill,1967-01-18,,Female,,,ER Doctor
+Survivor: Nicaragua,21,Yve Rojas,308,Yve,41,Kansas City,Missouri,ISFJ,6,15,7,7th voted out,,Espada,Espada,,,13,0,Yve,1969-03-09,,Female,,Hispanic or Latino,Homemaker
+Survivor: Nicaragua,21,Kelly Bruno,307,Kelly B.,26,Durham,North Carolina,ISFP,6,15,6,6th voted out,,La Flor,La Flor,,,16,0,Kelly B.,1984-03-23,,Female,,,Medical Student
+Survivor: Nicaragua,21,Tyrone Davis,306,Tyrone,42,Inglewood,California,ESTJ,5,14,5,5th voted out,,Espada,Espada,,,6,0,Tyrone,1967-09-24,,Male,Black,,Fire Captain
+Survivor: Nicaragua,21,James Tarantino,305,Jimmy T.,48,Gloucester,Massachusetts,ESTP,4,11,4,4th voted out,,Espada,,,,5,0,Jimmy T.,1962-09-07,,Male,,,Commercial Fisherman
+Survivor: Nicaragua,21,Jimmy Johnson,304,Jimmy J.,67,Islamorada,Florida,ESFJ,3,8,3,3rd voted out,,Espada,,,,8,0,Jimmy J.,1943-07-16,,Male,,,Former NFL Coach
+Survivor: Nicaragua,21,Shannon Elkins,303,Shannon,30,Lafayette,Louisiana,ESTJ,2,6,2,2nd voted out,,La Flor,,,,7,0,Shannon,1979-12-04,,Male,,,Pest Control Company Owner
+Survivor: Nicaragua,21,Wendy-Jo DeSmidt-Kohlhoff,302,Wendy,48,Fromberg,Montana,ISFP,1,3,1,1st voted out,,Espada,,,,9,0,Wendy,1961-12-13,,Female,,,Goat Rancher
+Survivor: Heroes vs. Villains,20,Sandra Diaz-Twine,112,Sandra,35,Fayetteville,North Carolina,ESTP,15,39,20,Sole Survivor,,Villains,,,Yin Yang,3,0,Sandra,1974-07-30,,Female,,Hispanic or Latino,Office Assistant;Case Manager
+Survivor: Heroes vs. Villains,20,Parvati Shallow,197,Parvati,26,Los Angeles,California,ENFJ,15,39,19,Runner-up,,Villains,,,Yin Yang,12,3,Parvati,1982-09-21,,Female,White,,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker
+Survivor: Heroes vs. Villains,20,Russell Hantz,300,Russell,36,Dayton,Texas,ESTJ,15,39,18,2nd Runner-up,,Villains,,,Yin Yang,7,2,Russell H.,1972-10-10,,Male,,,Oil Company Owner
+Survivor: Heroes vs. Villains,20,Jerri Manthey,25,Jerri,38,Los Angeles,California,ESFP,14,38,17,17th voted out,9th jury member,Villains,,,Yin Yang,9,1,Jerri,1970-09-05,,Female,,,Aspiring Actress
+Survivor: Heroes vs. Villains,20,Colby Donaldson,31,Colby,35,Los Angeles,California,ISTP,14,37,16,16th voted out,8th jury member,Heroes,,,Yin Yang,8,0,Colby,1974-04-01,,Male,,,Auto Customizer
+Survivor: Heroes vs. Villains,20,Rupert Boneham,107,Rupert,45,Indianapolis,Indiana,ESFJ,13,36,15,15th voted out,7th jury member,Heroes,,,Yin Yang,10,0,Rupert,1964-01-27,,Male,,,Troubled Teens Mentor
+Survivor: Heroes vs. Villains,20,Danielle DiLorenzo,181,Danielle,28,Los Angeles,California,ESFP,12,33,14,14th voted out,6th jury member,Villains,,,Yin Yang,4,1,Danielle,1981-06-03,,Female,,,Medical Sales Rep.
+Survivor: Heroes vs. Villains,20,Candice Woodcock,195,Candice,26,Washington,D.C.,ISTJ,12,31,13,13th voted out,5th jury member,Heroes,,,Yin Yang,5,1,Candice,1982-11-12,,Female,,,Pre-Med Student;Physician/Anesthesiology Resident
+Survivor: Heroes vs. Villains,20,Amanda Kimmel,235,Amanda,25,Los Angeles,California,ISFP,11,30,12,12th voted out,4th jury member,Heroes,,,Yin Yang,10,0,Amanda,1984-08-03,,Female,,,Hiking Guide;Aspiring Designer
+Survivor: Heroes vs. Villains,20,James Thomas Jr.,281,J.T.,25,Mobile,Alabama,ESTP,10,27,11,11th voted out,3rd jury member,Heroes,,,Yin Yang,5,0,J.T.,1984-06-23,,Male,,,Cattle Rancher
+Survivor: Heroes vs. Villains,20,Courtney Yates,236,Courtney,28,New York City,New York,ENTP,9,24,10,10th voted out,2nd jury member,Villains,,,,9,0,Courtney,1981-03-26,,Female,,,Waitress
+Survivor: Heroes vs. Villains,20,Benjamin Wade,277,Coach,38,Susanville,California,ENFJ,8,21,9,9th voted out,1st jury member,Villains,,,,4,0,Coach,1971-09-18,,Male,,,Soccer Coach/Musician
+Survivor: Heroes vs. Villains,20,Rob Mariano,55,Boston Rob,33,Pensacola,Florida,ESTJ,7,18,8,8th voted out,,Villains,,,,5,1,Boston Rob,1975-12-25,,Male,,,Construction Worker
+Survivor: Heroes vs. Villains,20,James Clement,231,James,32,Lafayette,Louisiana,ISTP,6,15,7,7th voted out,,Heroes,,,,12,0,James,1977-03-09,,Male,Black,,Gravedigger
+Survivor: Heroes vs. Villains,20,Tyson Apostol,274,Tyson,30,Heber City,Utah,ESTP,6,15,6,6th voted out,,Villains,,,,6,0,Tyson,1979-06-17,,Male,,,Former Professional Cyclist/Missionary;Shop Manager
+Survivor: Heroes vs. Villains,20,Tom Westman,150,Tom,45,New York City,New York,ESTJ,5,14,5,5th voted out,,Heroes,,,,8,0,Tom,1964-01-04,,Male,,,NYC Firefighter;Motivational Speaker
+Survivor: Heroes vs. Villains,20,Cirie Fields,179,Cirie,39,Norwalk,Connecticut,ENFJ,4,11,4,4th voted out,,Heroes,,,,3,0,Cirie,1970-07-18,,Female,Black,,Nurse
+Survivor: Heroes vs. Villains,20,Randy Bailey,258,Randy,50,Austin,Texas,INTJ,3,8,3,3rd voted out,,Villains,,,,9,0,Randy,1959-03-31,,Male,,,Wedding Videographer
+Survivor: Heroes vs. Villains,20,Stephenie LaGrossa,144,Stephenie,29,Philadelphia,Pennsylvania,ESTJ,2,6,2,2nd voted out,,Heroes,,,,6,0,Stephenie,1979-12-06,,Female,,,Pharmaceutical Sales Representative
+Survivor: Heroes vs. Villains,20,Jessica Kiper,263,Sugar,30,Los Angeles,California,ENFP,1,3,1,1st voted out,,Heroes,,,,9,0,Sugar,1979-02-22,,Female,,,Pin-Up Model
+Survivor: Samoa,19,Natalie White,301,Natalie,26,Van Buren,Arkansas,ISFJ,16,39,20,Sole Survivor,,Foa Foa,,,Aiga,8,0,Natalie,1983-04-22,,Female,,,Pharmaceutical Sales
+Survivor: Samoa,19,Russell Hantz,300,Russell H.,36,Dayton,Texas,ESTJ,16,39,19,Runner-up,,Foa Foa,,,Aiga,6,0,Russell H.,1972-10-10,,Male,,,Oil Company Owner
+Survivor: Samoa,19,Mick Trimming,299,Mick,33,Los Angeles,California,INTP,16,39,18,2nd runner-up,,Foa Foa,,,Aiga,4,1,Mick,1976-05-10,,Male,,,Doctor
+Survivor: Samoa,19,Brett Clouser,298,Brett,23,Los Angeles,California,ISFP,15,38,17,15th voted out,9th jury member,Galu,,,Aiga,3,3,Brett,1985-12-27,,Male,,,T-Shirt Designer
+Survivor: Samoa,19,Jaison Robinson,297,Jaison,28,Chicago,Illinois,INTJ,15,37,16,14th voted out,8th jury member,Foa Foa,,,Aiga,7,2,Jaison,1980-09-25,,Male,Black,,Law Student
+Survivor: Samoa,19,Shannon Waters,296,Shambo,45,Renton,Washington,ESFP,14,36,15,13th voted out,7th jury member,Galu,,,Aiga,6,0,Shambo,1964-04-25,,Female,,,Sales
+Survivor: Samoa,19,Monica Padilla,295,Monica,25,San Diego,California,ENFP,13,33,14,12th voted out,6th jury member,Galu,,,Aiga,7,0,Monica,1984-07-14,,Female,,Hispanic or Latino,Law Student
+Survivor: Samoa,19,Dave Ball,294,Dave,38,Los Angeles,California,INTP,13,31,13,11th voted out,5th jury member,Galu,,,Aiga,8,0,Dave,1970-08-13,,Male,,,Fitness Instructor
+Survivor: Samoa,19,John Fincher,293,John,25,Santa Monica,California,INTP,12,30,12,10th voted out,4th jury member,Galu,,,Aiga,7,1,John,1983-08-16,,Male,,Hispanic or Latino,Rocket Scientist
+Survivor: Samoa,19,Laura Morett,292,Laura,39,Salem,Oregon,ENFJ,10,27,11,9th voted out,3rd jury member,Galu,,,Aiga,10,2,Laura M.,1969-07-30,,Female,,,Office Manager;Fitness Instructor
+Survivor: Samoa,19,Kelly Sharbaugh,291,Kelly,25,San Diego,California,ISFP,9,24,10,8th voted out,2nd jury member,Galu,,,Aiga,4,0,Kelly,1983-12-26,,Female,,,Hairstylist
+Survivor: Samoa,19,Erik Cardona,290,Erik,28,Los Angeles,California,ENTP,8,21,9,7th voted out,1st jury member,Galu,,,Aiga,10,0,Erik,1981-04-13,,Male,,Hispanic or Latino,Bartender
+Survivor: Samoa,19,Elizabeth Kim,289,Liz,33,New York City,New York,INTP,7,18,8,6th voted out,,Foa Foa,,,,5,0,Liz,1975-11-24,,Female,Asian,Korean American,Urban Planner
+Survivor: Samoa,19,Russell Swan,288,Russell S.,42,Glenside,Pennsylvania,ESFJ,6,15,7,Medically evacuated,,Galu,,,,0,0,Russell S.,1967-02-17,,Male,Black,,Attorney
+Survivor: Samoa,19,Ashley Trainer,287,Ashley,22,Maple Grove,Minnesota,ENFP,5,14,6,5th voted out,,Foa Foa,,,,9,0,Ashley,1987-02-27,,Female,,,Spa Sales
+Survivor: Samoa,19,Yasmin Giles,286,Yasmin,33,Los Angeles,California,ESFP,4,11,5,4th voted out,,Galu,,,,8,0,Yasmin,1975-08-29,,Female,Black,,Hairstylist
+Survivor: Samoa,19,Ben Browning,285,Ben,28,Los Angeles,California,ESTP,3,8,4,3rd voted out,,Foa Foa,,,,7,0,Ben,1980-08-28,,Male,,,Bar Manager
+Survivor: Samoa,19,Betsy Bolan,284,Betsy,48,Campton,New Hampshire,ESTJ,2,6,3,2nd voted out,,Foa Foa,,,,7,0,Betsy,1961-03-20,,Female,,,Police Officer
+Survivor: Samoa,19,Mike Borassi,283,Mike,62,Marina del Rey,California,ESTP,2,5,2,Medically evacuated,,Foa Foa,,,,0,0,Mike,1947-03-13,,Male,,,Personal Chef
+Survivor: Samoa,19,Marisa Calihan,282,Marisa,26,Cincinnati,Ohio,INFP,1,3,1,1st voted out,,Foa Foa,,,,7,0,Marisa,1983-07-26,,Female,,,Student
+Survivor: Tocantins,18,James Thomas Jr.,281,J.T.,24,Mobile,Alabama,ESTP,15,39,16,Sole Survivor,,Jalapao,,,Forza,0,2,J.T.,1984-06-23,,Male,,,Cattle Rancher
+Survivor: Tocantins,18,Stephen Fishbach,280,Stephen,29,New York City,New York,INTP,15,39,15,Runner-up,,Jalapao,,,Forza,1,1,Stephen,1979-01-24,,Male,White,Jewish,Corporate Consultant
+Survivor: Tocantins,18,Erinn Lobdell,279,Erinn,26,Milwaukee,Wisconsin,ENFP,14,38,14,13th voted out,7th jury member,Timbira,,,Forza,5,0,Erinn,1982-10-21,,Female,,,Hairstylist
+Survivor: Tocantins,18,Tamara Johnson-George,278,Taj,37,Nashville,Tennessee,ENFJ,14,37,13,12th voted out,6th jury member,Jalapao,,,Forza,7,0,Taj,1971-04-29,,Female,Black,,Former Pop Star
+Survivor: Tocantins,18,Benjamin Wade,277,Coach,37,Bolivar,Missouri,ENFJ,13,36,12,11th voted out,5th jury member,Timbira,,,Forza,6,1,Coach,1971-09-18,,Male,,,Soccer Coach/Musician
+Survivor: Tocantins,18,Debra Beebe,276,Debbie,46,Auburn,Alabama,ESFJ,12,33,11,10th voted out,4th jury member,Timbira,,,Forza,6,1,Debbie,1962-09-28,,Female,,,Middle School Principal
+Survivor: Tocantins,18,Sierra Reed,275,Sierra,23,Los Angeles,California,INFP,11,30,10,9th voted out,3rd jury member,Timbira,,,Forza,11,0,Sierra,1985-09-29,,Female,,,Model
+Survivor: Tocantins,18,Tyson Apostol,274,Tyson,29,Heber City,Utah,ESTP,10,27,9,8th voted out,2nd jury member,Timbira,,,Forza,5,2,Tyson,1979-06-17,,Male,,,Former Professional Cyclist/Missionary;Shop Manager
+Survivor: Tocantins,18,Brendan Synnott,273,Brendan,30,Vail,Colorado,ENTP,9,24,8,7th voted out,1st jury member,Timbira,,,Forza,4,0,Brendan,1978-09-28,,Male,,,Entrepreneur
+Survivor: Tocantins,18,Joe Dowdle,272,Joe,26,Austin,Texas,ISTJ,8,20,7,Medically evacuated,,Jalapao,,,Forza,1,0,Joe,1982-06-29,,Male,,,Real Estate Sales
+Survivor: Tocantins,18,Sydney Wheeler,271,Sydney,24,San Diego,California,ISFP,7,18,6,6th voted out,,Jalapao,,,,4,0,Sydney,1984-05-11,,Female,,,Model
+Survivor: Tocantins,18,Spencer Duhm,270,Spencer,19,Gainesville,Florida,INFP,5,15,5,5th voted out,,Jalapao,,,,5,0,Spencer,1989-12-20,,Male,,,Student
+Survivor: Tocantins,18,Sandy Burgin,269,Sandy,53,Louisville,Kentucky,ESFP,4,12,4,4th voted out,,Jalapao,,,,6,0,Sandy,1955-07-01,,Female,,,Bus Driver
+Survivor: Tocantins,18,Jerry Sims,268,Jerry,49,Rock Hill,South Carolina,ISTJ,3,9,3,3rd voted out,,Timbira,,,,6,0,Jerry,1959-05-18,,Male,Black,,Sgt - U.S. Army
+Survivor: Tocantins,18,Candace Smith,267,Candace,31,Los Angeles,California,ISTJ,2,6,2,2nd voted out,,Timbira,,,,7,0,Candace,1977-02-01,,Female,Black,,Attorney
+Survivor: Tocantins,18,Carolina Eastwood,266,Carolina,26,West Hollywood,California,ESTJ,1,3,1,1st voted out,,Jalapao,,,,7,0,Carolina,1981-10-27,,Female,Panamanian American,Hispanic or Latino,Bartender
+Survivor: Gabon,17,Robert Crowley,265,Bob,57,South Portland,Maine,INTP,14,39,18,Sole Survivor,,Kota,Kota,Kota,Nobag,2,3,Bob,1951-02-25,,Male,,,Physics Teacher
+Survivor: Gabon,17,Susie Smith,264,Susie,47,Charles City,Iowa,ISFJ,14,39,17,Runner-up,,Fang,Kota,Kota,Nobag,10,2,Susie,1960-10-24,,Female,,Hispanic or Latino,Hairdresser
+Survivor: Gabon,17,Jessica Kiper,263,Sugar,29,Brooklyn,New York,ENFP,14,39,16,2nd runner-up,,Kota,Fang,Fang,Nobag,0,1,Sugar,1979-02-22,,Female,,,Pin-Up Model
+Survivor: Gabon,17,Matty Whitmore,262,Matty,29,Pacific Palisades,California,ESFP,13,38,15,15th voted out,7th jury member,Fang,Fang,Fang,Nobag,7,0,Matty,1978-12-18,,Male,,,Personal Trainer
+Survivor: Gabon,17,Ken Hoang,261,Ken,22,Westminster,California,INTP,13,37,14,14th voted out,6th jury member,Fang,Fang,Kota,Nobag,7,1,Ken,1985-10-10,,Male,Asian,Vietnamese American,Professional Gamer
+Survivor: Gabon,17,Crystal Cox,260,Crystal,29,Durham,North Carolina,ESFP,12,36,13,13th voted out,5th jury member,Fang,Fang,Kota,Nobag,13,0,Crystal,1979-03-28,,Female,Black,,Former Olympic Athlete
+Survivor: Gabon,17,Corinne Kaplan,259,Corinne,29,Los Angeles,California,ENTJ,11,33,12,12th voted out,4th jury member,Kota,Kota,Fang,Nobag,4,0,Corinne,1979-01-17,,Female,White,Jewish,Pharmaceutical Sales;Clinical Consultant
+Survivor: Gabon,17,Randy Bailey,258,Randy,49,Eagle Rock,Missouri,INTJ,9,30,11,11th voted out,3rd jury member,Fang,Kota,Fang,Nobag,5,0,Randy,1959-03-31,,Male,,,Wedding Videographer
+Survivor: Gabon,17,Charlie Herschel,257,Charlie,29,New York City,New York,ENFP,8,27,10,10th voted out,2nd jury member,Kota,Kota,Fang,Nobag,5,0,Charlie,1979-05-12,,Male,White,Jewish,Lawyer
+Survivor: Gabon,17,Marcus Lehman,256,Marcus,28,Atlanta,Georgia,ENTJ,7,24,9,9th voted out,1st jury member,Kota,Kota,Kota,,3,2,Marcus,1979-10-03,,Male,,Hispanic or Latino,Doctor
+Survivor: Gabon,17,Dan Kay,255,Dan,32,Boston,Massachusetts,ISFP,6,21,8,8th voted out,,Fang,Kota,,,8,0,Dan,1976-06-30,2016-12-31,Male,,,Lawyer
+Survivor: Gabon,17,Ace Gordon,254,Ace,27,Naples,Florida,INTJ,6,21,7,7th voted out,,Kota,Fang,,,8,0,Ace,1980-09-03,,Male,,,Jewelry Sales and Photographer
+Survivor: Gabon,17,Kelly Czarnecki,253,Kelly,22,Buffalo Grove,Illinois,INFP,5,18,6,6th voted out,,Kota,Fang,,,8,0,Kelly,1986-04-04,,Female,,,Retail Sales
+Survivor: Gabon,17,Danny Brown,252,GC,25,Portland,Oregon,INFP,4,15,5,5th voted out,,Fang,Fang,,,6,1,GC,1982-07-13,,Male,Black,,Maintenance Man
+Survivor: Gabon,17,Jacquie Berg,251,Jacquie,25,Santa Barbara,California,ENFJ,3,12,4,4th voted out,,Kota,Fang,,,5,0,Jacquie,1982-09-10,,Female,,,Medical Sales
+Survivor: Gabon,17,Paloma Soto-Castillo,250,Paloma,23,Downey,California,ENFP,2,9,3,3rd voted out,,Kota,,,,7,0,Paloma,1984-08-24,,Female,Chilean American,Hispanic or Latino,Student
+Survivor: Gabon,17,Gillian Larson,249,Gillian,61,Temecula,California,ENFP,1,6,2,2nd voted out,,Fang,,,,8,0,Gillian,1947-02-24,,Female,,,Retired Nurse
+Survivor: Gabon,17,Michelle Chase,248,Michelle,24,Los Angeles,California,INTP,1,3,1,1st voted out,,Fang,,,,8,0,Michelle,1984-03-07,,Female,,,Music Producer
+Survivor: Micronesia,16,Parvati Shallow,197,Parvati,25,Los Angeles,California,ENFJ,15,39,20,Sole Survivor,,Malakal,Airai,,Dabu,4,1,Parvati,1982-09-21,,Female,White,,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker
+Survivor: Micronesia,16,Amanda Kimmel,235,Amanda,23,Los Angeles,California,ISFP,15,39,19,Runner-up,,Malakal,Malakal,,Dabu,4,1,Amanda,1984-08-03,,Female,,,Hiking Guide;Aspiring Designer
+Survivor: Micronesia,16,Cirie Fields,179,Cirie,37,Norwalk,Connecticut,ENFJ,14,38,18,15th voted out,8th jury member,Malakal,Malakal,,Dabu,3,0,Cirie,1970-07-18,,Female,Black,,Nurse
+Survivor: Micronesia,16,Natalie Bolton,247,Natalie,32,West Hollywood,California,INTJ,14,37,17,14th voted out,7th jury member,Airai,Airai,,Dabu,3,0,Natalie,1975-12-31,,Female,Asian,,Personal Trainer
+Survivor: Micronesia,16,Erik Reichenbach,246,Erik,22,Ypsilanti,Michigan,INTP,13,36,16,13th voted out,6th jury member,Airai,Malakal,,Dabu,7,4,Erik,1985-11-27,,Male,,,Ice Cream Scooper;Comic Book Artist
+Survivor: Micronesia,16,Alexis Jones,245,Alexis,24,Beverly Hills,California,ENFJ,12,33,15,12th voted out,5th jury member,Airai,Airai,,Dabu,2,0,Alexis,1983-07-06,,Female,,,Motivational Speaker
+Survivor: Micronesia,16,James Clement,231,James,30,Lafayette,Louisiana,ISTP,12,31,14,Medically evacuated,4th jury member,Malakal,Airai,,Dabu,3,0,James,1977-03-09,,Male,Black,,Gravedigger
+Survivor: Micronesia,16,Jason Siska,244,Jason,22,Fox River Grove,Illinois,ESFP,11,30,13,11th voted out,3rd jury member,Airai,Airai,,Dabu,8,1,Jason,1985-03-04,,Male,,,Gymnastics Coach
+Survivor: Micronesia,16,Oscar Lusth,201,Ozzy,26,Venice,California,ISFP,10,27,12,10th voted out,2nd jury member,Malakal,Malakal,,Dabu,9,0,Ozzy,1981-08-23,,Male,Mexican American,Hispanic or Latino,Waiter;Photographer
+Survivor: Micronesia,16,Eliza Orlins,127,Eliza,25,Manhattan,New York,ENTJ,9,24,11,9th voted out,1st jury member,Malakal,Airai,,Dabu,8,0,Eliza,1982-12-25,,Female,White,Jewish,Pre-Law Student;Law School Student
+Survivor: Micronesia,16,Ami Cusack,125,Ami,34,Golden,Colorado,ENTJ,8,21,10,8th voted out,,Malakal,Malakal,,,4,0,Ami,1973-01-25,,Female,,,Coffee Barista;Nanny
+Survivor: Micronesia,16,Tracy Hughes-Wolf,243,Tracy,43,Fredericksburg,Virginia,ENFJ,7,20,9,7th voted out,,Airai,Malakal,,,7,0,Tracy,1964-07-09,,Female,,,Residential Builder
+Survivor: Micronesia,16,Kathleen Sleckman,242,Kathy,45,Glen Ellyn,Illinois,ENFP,7,19,8,Quit,,Airai,Airai,,,0,0,Kathy,1962-08-14,,Female,,,Golf Course Vendor
+Survivor: Micronesia,16,Chet Welch,241,Chet,48,Ford City,Pennsylvania,INFP,6,17,7,6th voted out,,Airai,Malakal,,,12,0,Chet,1959-10-22,,Male,,,Pageant Coach
+Survivor: Micronesia,16,Jonathan Penner,196,Jonathan,45,Los Angeles,California,ENTP,6,15,6,Medically evacuated,,Malakal,Airai,,,0,0,Jonathan,1962-03-05,,Male,White,Jewish,Writer
+Survivor: Micronesia,16,Joel Anderson,240,Joel,32,Avondale,Arizona,ESTJ,5,14,5,5th voted out,,Airai,Malakal,,,6,0,Joel,1975-06-01,,Male,,,Firefighter
+Survivor: Micronesia,16,Michael Bortone,239,Mikey B,34,Los Angeles,California,ENTP,4,11,4,4th voted out,,Airai,,,,6,0,Mikey B,1973-12-29,,Male,,,Aspiring Writer
+Survivor: Micronesia,16,Yau-Man Chan,218,Yau-Man,55,Martinez,California,INTP,3,8,3,3rd voted out,,Malakal,,,,6,0,Yau-Man,1952-08-26,,Male,Asian,Bornean American,Computer Engineer
+Survivor: Micronesia,16,Mary Sartain,238,Mary,29,Emeryville,California,ISFJ,2,6,2,2nd voted out,,Airai,,,,6,0,Mary,1978-11-11,,Female,,,Real Estate Manager
+Survivor: Micronesia,16,Jon Dalton,111,Jonny Fairplay,33,Los Angeles,California,ENTP,1,3,1,1st voted out,,Malakal,,,,9,0,Jonny Fairplay,1974-03-11,,Male,,,Art Consultant
+Survivor: China,15,Todd Herzog,237,Todd,22,Pleasant Grove,Utah,ENFP,15,39,16,Sole Survivor,,Fei Long,Fei Long,,Hae Da Fung,5,0,Todd,1985-01-29,,Male,,,Flight Attendant
+Survivor: China,15,Courtney Yates,236,Courtney,26,New York City,New York,ENTP,15,39,15,Runner-up,,Fei Long,Fei Long,,Hae Da Fung,0,1,Courtney,1981-03-26,,Female,,,Waitress
+Survivor: China,15,Amanda Kimmel,235,Amanda,22,Los Angeles,California,ISFP,15,39,14,2nd runner-up,,Fei Long,Fei Long,,Hae Da Fung,0,2,Amanda,1984-08-03,,Female,,,Hiking Guide;Aspiring Designer
+Survivor: China,15,Denise Martin,234,Denise,40,Douglas,Massachusetts,ISFP,14,38,13,13th voted out,7th jury member,Fei Long,Fei Long,,Hae Da Fung,3,0,Denise,1967-05-05,,Female,,,School Lunch Lady
+Survivor: China,15,Peih-Gee Law,233,Peih-Gee,29,Marina del Rey,California,ENTP,13,36,12,12th voted out,6th jury member,Zhan Hu,Zhan Hu,,Hae Da Fung,8,0,Peih-Gee,1978-04-07,,Female,Asian,,Jeweler
+Survivor: China,15,Erik Huffman,232,Erik,26,Nashville,Tennessee,ISFP,12,33,11,11th voted out,5th jury member,Zhan Hu,Zhan Hu,,Hae Da Fung,5,1,Erik,1981-01-31,,Male,,,Musician
+Survivor: China,15,James Clement,231,James,30,Lafayette,Louisiana,ISTP,11,30,10,10th voted out,4th jury member,Fei Long,Zhan Hu,,Hae Da Fung,9,0,James,1977-03-09,,Male,Black,,Gravedigger
+Survivor: China,15,Michael Zernow,230,Frosti,20,Chicago,Illinois,ESFP,9,27,9,9th voted out,3rd jury member,Zhan Hu,Fei Long,,Hae Da Fung,7,1,Frosti,1987-02-15,,Male,Asian,Japanese Russian American,Student/Athlete
+Survivor: China,15,Jean-Robert Bellande,229,Jean-Robert,36,Las Vegas,Nevada,INTP,8,24,8,8th voted out,2nd jury member,Fei Long,Fei Long,,Hae Da Fung,12,0,Jean-Robert,1970-09-17,,Male,,,Poker Player
+Survivor: China,15,Jaime Dugan,228,Jaime,22,Columbia,South Carolina,ESFJ,7,21,7,7th voted out,1st jury member,Zhan Hu,Zhan Hu,,Hae Da Fung,7,0,Jaime,1985-06-30,,Female,,,Student
+Survivor: China,15,Sherea Lloyd,227,Sherea,26,Atlanta,Georgia,ESFP,6,18,6,6th voted out,,Zhan Hu,Fei Long,,,6,0,Sherea,1981-07-31,,Female,Black,,Elementary Teacher
+Survivor: China,15,Aaron Reisberger,226,Aaron,32,Venice,California,ISTJ,5,15,5,5th voted out,,Fei Long,Zhan Hu,,,3,0,Aaron,1975-04-25,,Male,,,Surfing Instructor
+Survivor: China,15,Dave Cruser,225,Dave,37,Simi Valley,California,ESTP,4,12,4,4th voted out,,Zhan Hu,,,,6,0,Dave,1969-10-26,,Male,,,Former Model
+Survivor: China,15,Leslie Nease,224,Leslie,38,Tega Cay,South Carolina,ENFP,3,9,3,3rd voted out,,Fei Long,,,,6,0,Leslie,1969-03-25,,Female,,,Christian Radio Host
+Survivor: China,15,Ashley Massaro,223,Ashley,28,East Northport,New York,ESFP,2,6,2,2nd voted out,,Zhan Hu,,,,8,0,Ashley,1979-05-26,2019-05-16,Female,,,Professional Wrestler
+Survivor: China,15,Steve Morris,222,Chicken,47,Marion,Virginia,ISFP,1,3,1,1st voted out,,Zhan Hu,,,,5,0,Chicken,1959-09-02,,Male,,,Chicken Farmer
+Survivor: Fiji,14,Earl Cole,221,Earl,35,Santa Monica,California,INFJ,15,39,19,Sole Survivor,,Ravu,Moto,,Bula Bula,1,0,Earl,1971-04-09,,Male,Black,,Ad Executive
+Survivor: Fiji,14,Cassandra Franklin,220,Cassandra,42,Los Angeles,California,ISFJ,15,39,18,Co-runner-up,,Moto,Moto,,Bula Bula,5,0,Cassandra,1964-04-19,,Female,Black,,College Administrator
+Survivor: Fiji,14,Andria Herd,219,Dreamz,25,Wilmington,North Carolina,ESFP,15,39,17,Co-runner-up,,Moto,Ravu,,Bula Bula,2,1,Dreamz,1981-12-15,,Male,Black,,Cheerleading Coach
+Survivor: Fiji,14,Yau-Man Chan,218,Yau-Man,54,Martinez,California,INTP,14,38,16,15th voted out,9th jury member,Ravu,Moto,,Bula Bula,10,0,Yau-Man,1952-08-26,,Male,Asian,Bornean American,Computer Engineer
+Survivor: Fiji,14,Kenward Bernis,217,Boo,34,Lafayette,Louisiana,ISTP,14,37,15,14th voted out,8th jury member,Moto,Moto,,Bula Bula,5,3,Boo,1972-06-21,,Male,,,Construction Worker
+Survivor: Fiji,14,Stacy Kimball,216,Stacy,27,Boulder,Colorado,INTJ,13,36,14,13th voted out,7th jury member,Moto,Moto,,Bula Bula,4,1,Stacy,1979-10-01,,Female,Asian,Korean American,Web Producer
+Survivor: Fiji,14,Alex Angarita,215,Alex,28,Los Angeles,California,ENTJ,12,33,13,12th voted out,6th jury member,Moto,Ravu,,Bula Bula,9,0,Alex,1978-04-20,,Male,Colombian American,Hispanic or Latino,Attorney
+Survivor: Fiji,14,Mookie Lee,214,Mookie,25,Chicago,Illinois,ESFP,11,30,12,11th voted out,5th jury member,Ravu,Ravu,,Bula Bula,6,0,Mookie,1981-11-10,,Male,Asian,Korean American,Business Consultant
+Survivor: Fiji,14,Edgardo Rivera,213,Edgardo,28,Miami Beach,Florida,ESTP,10,27,11,10th voted out,4th jury member,Moto,Ravu,,Bula Bula,5,0,Edgardo,1978-10-05,,Male,Puerto Rican American,Hispanic or Latino,Ad Executive
+Survivor: Fiji,14,Michelle Yi,212,Michelle,23,Cincinnati,Ohio,ENFP,9,24,10,9th voted out,3rd jury member,Ravu,Moto,,Bula Bula,3,0,Michelle,1983-12-02,,Female,Asian,Taiwanese American,Student
+Survivor: Fiji,14,Lisette Linares,211,Lisi,36,Los Angeles,California,ESFP,8,21,9,8th voted out,2nd jury member,Moto,Ravu,,,7,0,Lisi,1970-06-09,,Female,Cuban American,Hispanic or Latino,Customer Service Rep.
+Survivor: Fiji,14,James Reid,210,Rocky,28,Los Angeles,California,ESTP,7,19,8,7th voted out,1st jury member,Ravu,Ravu,,,5,0,Rocky,1978-09-11,,Male,,,Bartender
+Survivor: Fiji,14,Anthony Robinson,209,Anthony,32,Compton,California,INFP,6,16,7,6th voted out,,Ravu,Ravu,,,10,0,Anthony,1974-06-25,,Male,Black,,Expert Witness Locator
+Survivor: Fiji,14,Rita Verreos,208,Rita,38,San Antonio,Texas,ISFJ,5,14,6,5th voted out,,Ravu,,,,6,0,Rita,1968-07-19,,Female,Venezuelan American,Hispanic or Latino,Single Mom
+Survivor: Fiji,14,Liliana Gomez,207,Liliana,25,Los Angeles,California,ISTJ,4,11,5,4th voted out,,Moto,,,,6,0,Liliana,1981-04-05,,Female,Mexican American,Hispanic or Latino,Loan Officer
+Survivor: Fiji,14,Gary Stritesky,206,Gary,55,Ramsey,Minnesota,ISFJ,4,10,4,Quit,,Moto,,,,0,0,Gary,1951-09-16,,Male,,,School Bus Driver
+Survivor: Fiji,14,Sylvia Kwan,205,Sylvia,52,Ross,California,ISTJ,3,8,3,3rd voted out,,Ravu,,,,6,0,Sylvia,1954-08-18,,Female,Asian,Hong Konger American,Architect
+Survivor: Fiji,14,Erica Durousseau,204,Erica,27,Baton Rouge,Louisiana,ESFP,2,6,2,2nd voted out,,Ravu,,,,6,0,Erica,1979-12-11,,Female,Black,,Non-Profit Fundraiser
+Survivor: Fiji,14,Jessica deBen,203,Jessica,27,Los Angeles,California,INFJ,1,3,1,1st voted out,,Ravu,,,,6,0,Jessica,1979-04-25,,Female,,,Fashion Stylist
+Survivor: Cook Islands,13,Yul Kwon,202,Yul,31,San Mateo,California,INTJ,16,39,20,Sole Survivor,,Puka Puka,Aitutaki,Aitutaki,Aitutonga,5,0,Yul,1975-02-14,,Male,Asian,Korean American,Management Consultant;Product Management
+Survivor: Cook Islands,13,Oscar Lusth,201,Ozzy,24,Venice,California,ISFP,16,39,19,Runner-up,,Aitutaki,Aitutaki,Aitutaki,Aitutonga,1,5,Ozzy,1981-08-23,,Male,Mexican American,Hispanic or Latino,Waiter;Photographer
+Survivor: Cook Islands,13,Rebekah Lee,200,Becky,28,Washington,D.C.,INTP,16,39,18,2nd Runner-up,,Puka Puka,Aitutaki,Aitutaki,Aitutonga,5,0,Becky,1977-09-11,,Female,Asian,Korean American,Attorney
+Survivor: Cook Islands,13,Sundra Oakley,199,Sundra,31,Los Angeles,California,INFP,15,38,17,17th voted out,9th jury member,Manihiki,Aitutaki,Aitutaki,Aitutonga,6,0,Sundra,1975-01-02,,Female,Black,,Actress
+Survivor: Cook Islands,13,Adam Gentry,198,Adam,28,San Diego,California,ESTP,15,37,16,16th voted out,8th jury member,Rarotonga,Rarotonga,Rarotonga,Aitutonga,5,1,Adam,1978-08-21,,Male,White,,Copier Sales
+Survivor: Cook Islands,13,Parvati Shallow,197,Parvati,23,West Hollywood,California,ENFJ,14,36,15,15th voted out,7th jury member,Rarotonga,Rarotonga,Rarotonga,Aitutonga,4,0,Parvati,1982-09-21,,Female,White,,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker
+Survivor: Cook Islands,13,Jonathan Penner,196,Jonathan,44,Los Angeles,California,ENTP,13,33,14,14th voted out,6th jury member,Rarotonga,Aitutaki,Rarotonga,Aitutonga,19,0,Jonathan,1962-03-05,,Male,White,Jewish,Writer
+Survivor: Cook Islands,13,Candice Woodcock,195,Candice,23,Washington,D.C.,ISTJ,12,30,13,13th voted out,5th jury member,Rarotonga,Aitutaki,Rarotonga,Aitutonga,7,0,Candice,1982-11-12,,Female,,,Pre-Med Student;Physician/Anesthesiology Resident
+Survivor: Cook Islands,13,Nathan Gonzalez,194,Nate,26,Playa del Rey,California,ESTP,11,27,12,12th voted out,4th jury member,Manihiki,Rarotonga,Rarotonga,Aitutonga,5,1,Nate,1980-07-26,,Male,Black,Hispanic or Latino,Shoe Salesman
+Survivor: Cook Islands,13,Jenny Guzon-Bae,193,Jenny,36,Lake Forest,Illinois,ISTJ,10,24,11,11th voted out,3rd jury member,Puka Puka,Rarotonga,Rarotonga,,12,0,Jenny,1970-05-08,,Female,Asian,Filipino American,Real Estate Agent
+Survivor: Cook Islands,13,Rebecca Borman,192,Rebecca,34,Laurelton,New York,ISFJ,10,24,10,10th voted out,2nd jury member,Manihiki,Rarotonga,Rarotonga,,12,0,Rebecca,1971-08-31,,Female,Black,,Make-Up Artist
+Survivor: Cook Islands,13,Brad Virata,191,Brad,29,Santa Monica,California,INFJ,9,21,9,9th voted out,1st jury member,Puka Puka,Rarotonga,Rarotonga,,7,0,Brad,1976-11-23,,Male,Asian,Asian American,Fashion Director
+Survivor: Cook Islands,13,Jessica Smith,190,Jessica,27,Chico,California,ENFP,8,18,8,8th voted out,,Rarotonga,Aitutaki,,,6,0,Jessica,1979-01-22,,Female,White,,Roller Girl
+Survivor: Cook Islands,13,Cristina Coria,189,Cristina,35,Santa Monica,California,ISFJ,6,15,7,7th voted out,,Aitutaki,Rarotonga,,,9,0,Cristina,1971-04-18,,Female,,Hispanic or Latino,Police Officer
+Survivor: Cook Islands,13,Anh-Tuan Bui,188,Cao Boi,42,Christiansburg,Virginia,ENFP,6,15,6,6th voted out,,Puka Puka,Aitutaki,,,12,0,Cao Boi,1964-04-10,,Male,Asian,Vietnamese American,Nail Salon Manager
+Survivor: Cook Islands,13,Stephannie Favor,187,Stephannie,35,Columbia,South Carolina,ISFJ,5,14,5,5th voted out,,Manihiki,Rarotonga,,,9,0,Stephannie,1970-07-12,,Female,Black,,Nursing Student
+Survivor: Cook Islands,13,John Calderon,186,J.P.,30,Long Beach,California,ESFP,4,11,4,4th voted out,,Aitutaki,Rarotonga,,,7,0,J.P.,1975-09-05,,Male,,Hispanic or Latino,Volleyball Pro
+Survivor: Cook Islands,13,Cecilia Mansilla,185,Cecilia,29,Oakland,California,ISTJ,3,8,3,3rd voted out,,Aitutaki,Aitutaki,,,5,0,Cecilia,1977-01-13,,Female,Peruvian American,Hispanic or Latino,Risk Consultant
+Survivor: Cook Islands,13,Virgilio Garcia,184,Billy,36,New York City,New York,INFJ,2,6,2,2nd voted out,,Aitutaki,,,,4,0,Billy,1970-04-22,,Male,,Hispanic or Latino,Heavy Metal Musician
+Survivor: Cook Islands,13,Sekou Bunch,183,Sekou,45,Los Angeles,California,ESFJ,1,3,1,1st voted out,,Manihiki,,,,3,0,Sekou,1960-09-09,,Male,Black,,Jazz Musician
+Survivor: Panama,12,Aras Baskauskas,182,Aras,24,Santa Monica,California,INFP,16,39,16,Sole Survivor,,Viveros,Casaya,,Gitanos,9,0,Aras,1981-09-26,,Male,,,Yoga Instructor;Musician
+Survivor: Panama,12,Danielle DiLorenzo,181,Danielle,24,Pompano Beach,Florida,ESFP,16,39,15,Runner-up,,Bayoneta,Casaya,,Gitanos,4,1,Danielle,1981-06-03,,Female,,,Medical Sales Rep.
+Survivor: Panama,12,Terry Deitz,180,Terry,46,Simsbury,Connecticut,ESTJ,15,38,14,13th voted out,7th jury member,La Mina,La Mina,,Gitanos,1,5,Terry,1959-10-10,,Male,,,Pilot
+Survivor: Panama,12,Cirie Fields,179,Cirie,35,Walterboro,South Carolina,ENFJ,14,36,13,12th voted out,6th jury member,Casaya,Casaya,,Gitanos,3,0,Cirie,1970-07-18,,Female,Black,,Nurse
+Survivor: Panama,12,Shane Powers,178,Shane,34,Los Angeles,California,ESFP,13,33,12,11th voted out,5th jury member,La Mina,Casaya,,Gitanos,9,0,Shane,1970-11-28,,Male,,,Marketing Executive
+Survivor: Panama,12,Courtney Marit,177,Courtney,31,Los Angeles,California,ENFP,12,30,11,10th voted out,4th jury member,Bayoneta,Casaya,,Gitanos,4,0,Courtney,1974-05-24,,Female,,,Fire Dancer
+Survivor: Panama,12,Bruce Kanegai,176,Bruce,57,Simi Valley,California,INFP,11,25,10,Medically evacuated,3rd jury member,La Mina,Casaya,,Gitanos,2,0,Bruce,1947-12-17,,Male,Asian,Japanese American,Art Teacher
+Survivor: Panama,12,Sally Schumann,175,Sally,27,Chicago,Illinois,INFP,10,24,9,9th voted out,2nd jury member,Bayoneta,La Mina,,Gitanos,8,0,Sally,1978-12-10,,Female,,,Social Worker
+Survivor: Panama,12,Austin Carty,174,Austin,24,High Point,North Carolina,INFP,9,21,8,8th voted out,1st jury member,Viveros,La Mina,,Gitanos,7,0,Austin,1981-04-29,,Male,,,Writer
+Survivor: Panama,12,Nick Stanbury,173,Nick,25,Tempe,Arizona,ISFP,8,18,7,7th voted out,,Viveros,La Mina,,Gitanos,6,0,Nick,1980-07-21,,Male,,,Financial Sales
+Survivor: Panama,12,Dan Barry,172,Dan,51,South Hadley,Massachusetts,ISFJ,6,15,6,6th voted out,,La Mina,La Mina,,,3,0,Dan,1953-12-30,,Male,,,Astronaut
+Survivor: Panama,12,Bobby Mason,171,Bobby,32,Los Angeles,California,ISTP,5,14,5,5th voted out,,Viveros,Casaya,,,3,0,Bobby,1973-08-20,,Male,Black,,Attorney
+Survivor: Panama,12,Ruth Marie Milliman,170,Ruth Marie,48,Greenville,South Carolina,ISFJ,4,11,4,4th voted out,,Casaya,La Mina,,,6,0,Ruth Marie,1957-04-11,,Female,,,Real Estate
+Survivor: Panama,12,Misty Giles,169,Misty,24,Dallas,Texas,INTP,3,8,3,3rd voted out,,Bayoneta,La Mina,,,5,0,Misty,1981-02-25,,Female,,,Missile Engineer
+Survivor: Panama,12,Melinda Hyder,168,Melinda,32,Sevierville,Tennessee,ESFJ,2,6,2,2nd voted out,,Casaya,Casaya,,,5,0,Melinda,1973-05-23,,Female,,,Singer/Entertainer
+Survivor: Panama,12,Tina Scheer,167,Tina,44,Hayward,Wisconsin,ESTP,1,3,1,1st voted out,,Casaya,,,,3,0,Tina,1960-11-17,,Female,,,Lumberjill
+Survivor: Guatemala,11,Danni Boatwright,166,Danni,29,Tonganoxie,Kansas,ENFJ,15,39,18,Sole Survivor,,Nakúm,Yaxhá,,Xhakúm,1,2,Danni,1975-07-13,,Female,,,Sports Radio Host;Owner of Sideline Chic
+Survivor: Guatemala,11,Stephenie LaGrossa,144,Stephenie,25,Toms River,New Jersey,ESTJ,15,39,17,Runner-up,,Yaxhá,Nakúm,,Xhakúm,2,1,Stephenie,1979-12-06,,Female,,,Pharmaceutical Sales Representative
+Survivor: Guatemala,11,Rafe Judkins,165,Rafe,22,Pittsburgh,Pennsylvania,INFP,14,38,16,16th voted out,7th jury member,Yaxhá,Nakúm,,Xhakúm,2,4,Rafe,1983-01-08,,Male,,,Wilderness Guide
+Survivor: Guatemala,11,Lydia Morales,164,Lydia,42,Lakewood,Washington,ISFJ,14,37,15,15th voted out,6th jury member,Yaxhá,Nakúm,,Xhakúm,10,0,Lydia,1963-01-19,,Female,Puerto Rican American,Hispanic or Latino,Fishmonger
+Survivor: Guatemala,11,Cindy Hall,163,Cindy,31,Naples,Florida,ISFP,13,36,14,14th voted out,5th jury member,Nakúm,Nakúm,,Xhakúm,6,0,Cindy,1974-06-28,,Female,,,Zookeeper
+Survivor: Guatemala,11,Judd Sergeant,162,Judd,34,Ridgefield,New Jersey,ESTP,12,33,13,13th voted out,4th jury member,Nakúm,Nakúm,,Xhakúm,6,0,Judd,1970-09-13,,Male,,,Hotel Doorman
+Survivor: Guatemala,11,Gary Hogeboom,161,Gary,46,Grand Haven,Michigan,INFJ,11,30,12,12th voted out,3rd jury member,Yaxhá,Yaxhá,,Xhakúm,8,2,Gary,1958-08-21,,Male,,,Ex-NFL Quarterback
+Survivor: Guatemala,11,Jamie Newton,160,Jamie,24,North Hollywood,California,ISTP,10,27,11,11th voted out,2nd jury member,Yaxhá,Nakúm,,Xhakúm,10,1,Jamie,1981-01-26,,Male,,,Water Skiing Instructor
+Survivor: Guatemala,11,Bobby Jon Drinkard,141,Bobby Jon,28,Los Angeles,California,ISTP,9,24,10,10th voted out,1st jury member,Nakúm,Yaxhá,,Xhakúm,0,0,Bobby Jon,1977-05-10,,Male,,,Waiter
+Survivor: Guatemala,11,Brandon Bellinger,159,Brandon,22,Manhattan,Kansas,ISTP,8,21,9,9th voted out,,Nakúm,Yaxhá,,Xhakúm,6,0,Brandon,1983-01-22,,Male,,,Farmer
+Survivor: Guatemala,11,Amy O'Hara,158,Amy,39,Revere,Massachusetts,ESTP,7,18,8,8th voted out,,Yaxhá,Yaxhá,,,4,0,Amy,1965-11-02,,Female,,,Police Sergeant
+Survivor: Guatemala,11,Brian Corridan,157,Brian,22,New York City,New York,ENTP,6,15,7,7th voted out,,Yaxhá,Yaxhá,,,12,0,Brian,1983-02-10,,Male,,,Ivy League Student
+Survivor: Guatemala,11,Margaret Bobonich,156,Margaret,43,Chardon,Ohio,ESFJ,6,15,6,6th voted out,,Nakúm,Nakúm,,,13,0,Margaret,1962-06-05,,Female,,,Nurse Practitioner
+Survivor: Guatemala,11,Blake Towsley,155,Blake,24,Dallas,Texas,ESTP,5,14,5,5th voted out,,Nakúm,Yaxhá,,,5,0,Blake,1981-05-05,,Male,,,Real Estate Broker
+Survivor: Guatemala,11,Brooke Struck,154,Brooke,25,Hood River,Oregon,ISTJ,4,11,4,4th voted out,,Nakúm,Nakúm,,,5,0,Brooke,1979-07-30,,Female,,,Law Student
+Survivor: Guatemala,11,Brianna Varela,153,Brianna,21,Edmonds,Washington,ENFP,3,8,3,3rd voted out,,Yaxhá,,,,7,0,Brianna,1983-10-29,,Female,,Hispanic or Latino,Retail Salesperson
+Survivor: Guatemala,11,Morgan McDevitt,152,Morgan,21,Decatur,Illinois,INFP,2,6,2,2nd voted out,,Yaxhá,,,,8,0,Morgan,1983-11-24,,Female,,,Magician's Assistant
+Survivor: Guatemala,11,Jim Lynch,151,Jim,63,Northglenn,Colorado,ISTJ,1,3,1,1st voted out,,Nakúm,,,,8,0,Jim,1942-01-07,,Male,,,Retired Fire Captain
+Survivor: Palau,10,Tom Westman,150,Tom,40,Sayville,New York,ESTJ,15,39,20,Sole Survivor,,Koror,,,Koror,0,5,Tom,1964-01-04,,Male,,,NYC Firefighter;Motivational Speaker
+Survivor: Palau,10,Katie Gallagher,149,Katie,29,Merced,California,ESFP,15,39,19,Runner-up,,Koror,,,Koror,2,0,Katie,1975-05-28,,Female,,,Advertising Executive
+Survivor: Palau,10,Ian Rosenberger,148,Ian,23,Ambridge,Pennsylvania,ESFP,14,38,18,14th voted out,7th jury member,Koror,,,Koror,5,3,Ian,1981-08-24,,Male,,,Dolphin Trainer
+Survivor: Palau,10,Jennifer Lyon,147,Jenn,32,Encino,California,ISFP,14,37,17,13th voted out,6th jury member,Koror,,,Koror,3,0,Jenn,1972-02-27,2010-01-19,Female,,,Nanny
+Survivor: Palau,10,Caryn Groedel,146,Caryn,46,Solon,Ohio,ISTJ,13,36,16,12th voted out,5th jury member,Koror,,,Koror,7,0,Caryn,1958-08-13,,Female,White,Jewish,Civil Rights Lawyer
+Survivor: Palau,10,Gregg Carey,145,Gregg,27,Chicago,Illinois,INTP,12,33,15,11th voted out,4th jury member,Koror,,,Koror,4,0,Gregg,1977-01-09,,Male,,,Business Consultant
+Survivor: Palau,10,Stephenie LaGrossa,144,Stephenie,24,Toms River,New Jersey,ESTJ,11,30,14,10th voted out,3rd jury member,Ulong,,,Koror,8,0,Stephenie,1979-12-06,,Female,,,Pharmaceutical Sales Representative
+Survivor: Palau,10,Janu Tornell,143,Janu,39,Las Vegas,Nevada,INFP,10,27,13,Quit,2nd jury member,Koror,,,Koror,1,0,Janu,1965-05-09,,Female,Cuban American,Hispanic or Latino,Vegas Showgirl
+Survivor: Palau,10,Coby Archa,142,Coby,32,Athens,Texas,ENFP,9,24,12,9th voted out,1st jury member,Koror,,,Koror,7,0,Coby,1972-09-08,,Male,,,Hairstylist
+Survivor: Palau,10,Bobby Jon Drinkard,141,Bobby Jon,27,Los Angeles,California,ISTP,8,21,11,Eliminated,,Ulong,,,,0,0,Bobby Jon,1977-05-10,,Male,,,Waiter
+Survivor: Palau,10,Ibrehem Rahman,140,Ibrehem,27,Birmingham,Alabama,ISTJ,7,18,10,8th voted out,,Ulong,,,,4,1,Ibrehem,1977-03-04,,Male,Black,,Waiter
+Survivor: Palau,10,James Miller,139,James,33,Mobile,Alabama,ESTP,6,15,9,7th voted out,,Ulong,,,,8,0,James,1971-07-08,,Male,,,Steelworker
+Survivor: Palau,10,Angie Jakusz,138,Angie,24,New Orleans,Louisiana,INFP,5,12,8,6th voted out,,Ulong,,,,13,0,Angie,1980-03-27,2021-01-08,Female,,,Bartender
+Survivor: Palau,10,Willard Smith,137,Willard,56,Bellevue,Washington,INTP,5,12,7,5th voted out,,Koror,,,,16,0,Willard,1947-11-30,,Male,,,Lawyer
+Survivor: Palau,10,Kimberly Mullen,136,Kim,25,Huber Heights,Ohio,INTJ,4,11,6,4th voted out,,Ulong,,,,8,0,Kim,1979-03-13,,Female,,,Graduate Student
+Survivor: Palau,10,Jeff Wilson,135,Jeff,21,Ventura,California,ESFP,3,8,5,3rd voted out,,Ulong,,,,5,0,Jeff,1983-02-09,,Male,,,Personal Trainer
+Survivor: Palau,10,Ashlee Ashby,134,Ashlee,22,Easley,South Carolina,ISFJ,2,6,4,2nd voted out,,Ulong,,,,6,0,Ashlee,1982-05-02,,Female,,,Student
+Survivor: Palau,10,Jolanda Jones,133,Jolanda,38,Houston,Texas,ESTJ,1,3,3,1st voted out,,Ulong,,,,6,1,Jolanda,1965-11-06,,Female,Black,,Lawyer
+Survivor: Palau,10,Wanda Shirk,132,Wanda,55,Ulysses,Pennsylvania,ENFP,1,2,2,Eliminated,,None,,,,0,0,Wanda,1949-08-24,,Female,,,English Teacher
+Survivor: Palau,10,Jonathan Libby,131,Jonathan,23,Dallas,Texas,ISTP,1,2,1,Eliminated,,None,,,,0,0,Jonathan,1981-09-05,,Male,,,Sales & Marketing Associate
+Survivor: Vanuatu,9,Chris Daugherty,130,Chris,33,South Vienna,Ohio,ENTP,15,39,18,Sole Survivor,,Lopevi,Lopevi,,Alinta,3,3,Chris,1970-08-29,,Male,,,Highway Construction Worker
+Survivor: Vanuatu,9,Twila Tanner,129,Twila,41,Marshall,Missouri,ISTJ,15,39,17,Runner-up,,Yasur,Lopevi,,Alinta,6,1,Twila,1962-10-12,,Female,,,Highway Repair Worker
+Survivor: Vanuatu,9,Scout Cloud Lee,128,Scout,59,Stillwater,Oklahoma,INFJ,14,38,16,16th voted out,7th jury member,Yasur,Yasur,,Alinta,3,0,Scout,1944-11-08,,Female,,,Rancher
+Survivor: Vanuatu,9,Eliza Orlins,127,Eliza,21,Syracuse,New York,ENTJ,14,37,15,15th voted out,6th jury member,Yasur,Yasur,,Alinta,9,1,Eliza,1982-12-25,,Female,White,Jewish,Pre-Law Student;Law School Student
+Survivor: Vanuatu,9,Julie Berry,126,Julie,23,Gorham,Maine,INFP,13,36,14,14th voted out,5th jury member,Yasur,Lopevi,,Alinta,4,0,Julie,1980-12-15,,Female,,,Youth Mentor
+Survivor: Vanuatu,9,Ami Cusack,125,Ami,31,Lakewood,Colorado,ENTJ,12,33,13,13th voted out,4th jury member,Yasur,Yasur,,Alinta,8,3,Ami,1973-01-25,,Female,,,Coffee Barista;Nanny
+Survivor: Vanuatu,9,Leann Slaby,124,Leann,35,Kansasville,Wisconsin,INFJ,11,30,12,12th voted out,3rd jury member,Yasur,Yasur,,Alinta,8,0,Leann,1969-07-08,,Female,,,Equity Research Assistant
+Survivor: Vanuatu,9,James Crittenden,123,Chad,34,Oakland,California,ESTP,10,27,11,11th voted out,2nd jury member,Lopevi,Lopevi,,Alinta,7,0,Chad,1969-08-08,,Male,,,Teacher
+Survivor: Vanuatu,9,Lea Masters,122,Lea,40,Columbia,South Carolina,ESFJ,9,24,10,10th voted out,1st jury member,Lopevi,Lopevi,,Alinta,7,1,Lea,1964-03-28,,Male,,,Drill Sergeant
+Survivor: Vanuatu,9,Rory Freeman,121,Rory,35,Des Moines,Iowa,INTP,8,21,9,9th voted out,,Lopevi,Yasur,,Alinta,14,0,Rory,1968-10-30,,Male,Black,,Housing Case Manager
+Survivor: Vanuatu,9,John Kenney,120,John K.,22,Los Angeles,California,ESFP,7,18,8,8th voted out,,Lopevi,Lopevi,,,5,1,John K.,1981-09-26,,Male,,,Mechanical Bull Operator
+Survivor: Vanuatu,9,Lisa Keiffer,119,Lisa,44,Mandeville,Louisiana,ESFJ,6,15,7,7th voted out,,Yasur,Yasur,,,4,0,Lisa,1960-05-03,,Female,,,Real Estate Agent
+Survivor: Vanuatu,9,Travis Sampson,118,Travis,33,Johnson City,Tennessee,ISFP,5,12,6,6th voted out,,Lopevi,Yasur,,,6,0,Travis,1971-02-19,,Male,,,Security Officer
+Survivor: Vanuatu,9,Brady Finta,117,Brady,33,Huntington Beach,California,ISTJ,4,10,5,5th voted out,,Lopevi,,,,6,0,Brady,1970-12-17,,Male,,,FBI Agent
+Survivor: Vanuatu,9,Mia Galeotalanza,116,Mia,29,Boston,Massachusetts,ESFP,3,7,4,4th voted out,,Yasur,,,,5,0,Mia,1974-08-17,,Female,,,Bookkeeper
+Survivor: Vanuatu,9,John Palyok,115,John P.,31,Los Angeles,California,ESTP,3,7,3,3rd voted out,,Lopevi,,,,5,0,John P.,1973-05-13,,Male,,,Sales Manager
+Survivor: Vanuatu,9,Dolly Neely,114,Dolly,25,Lake Latonka,Pennsylvania,ISFP,2,6,2,2nd voted out,,Yasur,,,,5,0,Dolly,1978-11-18,,Female,,,Sheep Farmer
+Survivor: Vanuatu,9,Brook Geraghty,113,Brook,27,Winthrop,Massachusetts,INTP,1,3,1,1st voted out,,Lopevi,,,,5,0,Brook,1976-11-20,,Male,,,Document Manager
+Survivor: All-Stars,8,Amber Brkich,27,Amber,25,Beaver,Pennsylvania,ISFP,17,39,18,Sole Survivor,,Chapera,Chapera,Chapera,Chaboga Mogo,6,1,Amber,1978-08-11,,Female,,,Administrative Assistant;Director of Marketing and Communications
+Survivor: All-Stars,8,Rob Mariano,55,Boston Rob,27,Canton,Massachusetts,ESTJ,17,39,17,Runner-up,,Chapera,Chapera,Mogo Mogo,Chaboga Mogo,0,4,Boston Rob,1975-12-25,,Male,,,Construction Worker
+Survivor: All-Stars,8,Jenna Lewis,9,Jenna L.,26,Burbank,California,ENFP,16,38,16,14th voted out,7th jury member,Saboga,Chapera,Mogo Mogo,Chaboga Mogo,0,0,Jenna L.,1977-07-16,,Female,,,Student
+Survivor: All-Stars,8,Rupert Boneham,107,Rupert,39,Indianapolis,Indiana,ESFJ,16,37,15,13th voted out,6th jury member,Saboga,Chapera,Mogo Mogo,Chaboga Mogo,4,0,Rupert,1964-01-27,,Male,,,Troubled Teens Mentor
+Survivor: All-Stars,8,Tom Buchanan,45,Tom,48,Rich Valley,Virginia,ESTP,15,36,14,12th voted out,5th jury member,Chapera,Chapera,Mogo Mogo,Chaboga Mogo,4,1,Tom,1955-10-30,,Male,,,Goat Farmer
+Survivor: All-Stars,8,Shii Ann Huang,71,Shii Ann,29,New York City,New York,INTJ,14,33,13,11th voted out,4th jury member,Mogo Mogo,Mogo Mogo,Chapera,Chaboga Mogo,5,1,Shii Ann,1974-01-24,,Female,Asian,Taiwanese American,Executive Recruiter
+Survivor: All-Stars,8,Alicia Calaway,24,Alicia,35,New York City,New York,ESTJ,13,30,12,10th voted out,3rd jury member,Chapera,Chapera,Mogo Mogo,Chaboga Mogo,7,0,Alicia,1968-05-01,,Female,Black,,Personal Trainer
+Survivor: All-Stars,8,Kathy Vavrick-O'Brien,62,Kathy,48,Burlington,Vermont,ESFJ,12,28,11,9th voted out,2nd jury member,Mogo Mogo,Mogo Mogo,Chapera,Chaboga Mogo,6,1,Kathy,1955-01-06,,Female,,,Real Estate Agent
+Survivor: All-Stars,8,Lex van den Berghe,46,Lex,40,Santa Cruz,California,ENTJ,11,27,10,8th voted out,1st jury member,Mogo Mogo,Mogo Mogo,Chapera,Chaboga Mogo,7,0,Lex,1963-06-18,,Male,,,Marketing Manager
+Survivor: All-Stars,8,Jerri Manthey,25,Jerri,33,Los Angeles,California,ESFP,10,24,9,7th voted out,,Saboga,Mogo Mogo,Chapera,,7,0,Jerri,1970-09-05,,Female,,,Aspiring Actress
+Survivor: All-Stars,8,Ethan Zohn,48,Ethan,30,New York City,New York,ISFP,8,21,8,6th voted out,,Saboga,Mogo Mogo,,,6,0,Ethan,1973-11-12,,Male,White,Jewish,Professional Soccer Player;Social Entrepreneur/Keynote Speaker
+Survivor: All-Stars,8,Colby Donaldson,31,Colby,29,Los Angeles,California,ISTP,7,19,7,5th voted out,,Mogo Mogo,Mogo Mogo,,,4,0,Colby,1974-04-01,,Male,,,Auto Customizer
+Survivor: All-Stars,8,Susan Hawk,13,Sue,42,Las Vegas,Nevada,ESTP,6,17,6,Quit,,Chapera,Chapera,,,0,0,Sue,1961-08-17,,Female,,,Truck Driver
+Survivor: All-Stars,8,Richard Hatch,16,Richard,42,Middletown,Rhode Island,ENTP,5,15,5,4th voted out,,Mogo Mogo,Mogo Mogo,,,6,0,Richard,1961-04-08,,Male,,,Corporate Trainer
+Survivor: All-Stars,8,Rob Cesternino,94,Rob C.,25,Plainview,New York,ENTP,4,12,4,3rd voted out,,Chapera,,,,5,0,Rob C.,1978-10-20,,Male,,,Computer Projects Coordinator
+Survivor: All-Stars,8,Jenna Morasca,96,Jenna M.,22,Bridgeville,Pennsylvania,ISTP,3,9,3,Quit,,Mogo Mogo,,,,0,0,Jenna M.,1981-02-15,,Female,,,Swimsuit Model
+Survivor: All-Stars,8,Rudy Boesch,14,Rudy,75,Virginia Beach,Virginia,ISTJ,2,6,2,2nd voted out,,Saboga,,,,3,0,Rudy,1928-01-20,2019-11-01,Male,,,Retired Navy SEAL
+Survivor: All-Stars,8,Tina Wesson,32,Tina,42,Knoxville,Tennessee,ESFJ,1,3,1,1st voted out,,Saboga,,,,4,0,Tina,1960-12-26,,Female,,,Personal Nurse;Motivational Speaker
+Survivor: Pearl Islands,7,Sandra Diaz-Twine,112,Sandra,29,Fort Lewis,Washington,ESTP,15,39,18,Sole Survivor,,Drake,Drake,,Balboa,0,0,Sandra,1974-07-30,,Female,,Hispanic or Latino,Office Assistant;Case Manager
+Survivor: Pearl Islands,7,Lillian Morris,99,Lillian,51,Loveland,Ohio,INFP,15,39,17,Runner-up,,Morgan,The Outcasts,,Balboa,10,1,Lillian,1952-04-03,,Female,,,Scout Troop Leader
+Survivor: Pearl Islands,7,Jon Dalton,111,Jonny Fairplay,29,Los Angeles,California,ENTP,14,38,16,15th voted out,7th jury member,Drake,Drake,,Balboa,7,0,Jonny Fairplay,1974-03-11,,Male,,,Art Consultant
+Survivor: Pearl Islands,7,Darrah Johnson,110,Darrah,22,Liberty,Mississippi,ISTP,14,37,15,14th voted out,6th jury member,Morgan,Morgan,,Balboa,6,3,Darrah,1981-05-19,,Female,,,Mortician
+Survivor: Pearl Islands,7,Burton Roberts,100,Burton,31,San Francisco,California,ISTJ,13,36,14,13th voted out,5th jury member,Drake,The Outcasts,,Balboa,10,2,Burton,1972-04-10,,Male,,,Marketing Executive
+Survivor: Pearl Islands,7,Christa Hastie,109,Christa,24,Los Angeles,California,ESFP,12,33,13,12th voted out,4th jury member,Drake,Drake,,Balboa,7,0,Christa,1978-11-06,,Female,,,Computer Programmer
+Survivor: Pearl Islands,7,Tijuana Bradley,108,Tijuana,26,St. Louis,Missouri,ESFP,11,30,12,11th voted out,3rd jury member,Morgan,Morgan,,Balboa,5,0,Tijuana,1976-07-23,,Female,Black,,Pharmaceutical Sales
+Survivor: Pearl Islands,7,Rupert Boneham,107,Rupert,39,Indianapolis,Indiana,ESFJ,10,27,11,10th voted out,2nd jury member,Drake,Drake,,Balboa,7,2,Rupert,1964-01-27,,Male,,,Troubled Teens Mentor
+Survivor: Pearl Islands,7,Ryan Opray,106,Ryan O.,30,Los Gatos,California,ISFJ,9,24,10,9th voted out,1st jury member,Morgan,Morgan,,Balboa,0,0,Ryan O.,1972-08-06,,Male,,,Electrician
+Survivor: Pearl Islands,7,Andrew Savage,105,Andrew,39,Chicago,Illinois,ESTJ,8,21,9,8th voted out,,Morgan,Morgan,,Balboa,6,0,Andrew,1963-07-29,,Male,,,Attorney
+Survivor: Pearl Islands,7,Osten Taylor,104,Osten,27,Boston,Massachusetts,ESFP,7,19,8,Quit,,Morgan,Morgan,,,2,0,Osten,1975-12-10,,Male,Black,,Equity Trade Manager
+Survivor: Pearl Islands,7,Shawn Cohen,103,Shawn,28,Hollywood,California,ESTP,7,19,7,7th voted out,,Drake,Drake,,,5,0,Shawn,1974-09-20,,Male,White,Jewish,Advertising Sales
+Survivor: Pearl Islands,7,Trish Dunn,102,Trish,42,Annapolis,Maryland,ENFJ,6,18,6,6th voted out,,Drake,The Outcasts,,,4,0,Trish,1960-10-29,,Female,,,Sales Executive
+Survivor: Pearl Islands,7,Michelle Tesauro,101,Michelle,22,Washington,D.C.,ENFP,5,15,5,5th voted out,,Drake,The Outcasts,,,6,0,Michelle,1981-01-16,,Female,,,Student
+Survivor: Pearl Islands,7,Burton Roberts,100,Burton,31,San Francisco,California,ISTJ,4,12,4,4th voted out,,Drake,The Outcasts,,,10,2,Burton,1972-04-10,,Male,,,Marketing Executive
+Survivor: Pearl Islands,7,Lillian Morris,99,Lillian,51,Loveland,Ohio,INFP,3,9,3,3rd voted out,,Morgan,The Outcasts,,,10,1,Lillian,1952-04-03,,Female,,,Scout Troop Leader
+Survivor: Pearl Islands,7,Ryan Shoulders,98,Ryan S.,23,Clarksville,Tennessee,INFP,2,6,2,2nd voted out,,Morgan,The Outcasts,,,0,0,Ryan S.,1980-03-28,,Male,,,Produce Clerk
+Survivor: Pearl Islands,7,Nicole Delma,97,Nicole,24,Hermosa Beach,California,INTP,1,3,1,1st voted out,,Morgan,The Outcasts,,,7,0,Nicole,1978-09-19,,Female,,,Massage Therapist
+Survivor: The Amazon,6,Jenna Morasca,96,Jenna,21,Bridgeville,Pennsylvania,ISTP,15,39,16,Sole Survivor,,Jaburu,Jaburu,,Jacaré,3,3,Jenna M.,1981-02-15,,Female,,,Swimsuit Model
+Survivor: The Amazon,6,Matthew von Ertfelda,95,Matthew,33,Washington,D.C.,INTP,15,39,15,Runner-up,,Tambaqui,Jaburu,,Jacaré,6,2,Matthew,1969-07-24,,Male,,,Restaurant Designer
+Survivor: The Amazon,6,Rob Cesternino,94,Rob,24,Wantagh,New York,ENTP,14,38,14,14th voted out,7th jury member,Tambaqui,Jaburu,,Jacaré,4,1,Rob C.,1978-10-20,,Male,,,Computer Projects Coordinator
+Survivor: The Amazon,6,Butch Lockley,93,Butch,50,Olney,Illinois,ISFJ,14,37,13,13th voted out,6th jury member,Tambaqui,Tambaqui,,Jacaré,5,0,Butch,1952-08-28,,Male,,,Principal
+Survivor: The Amazon,6,Heidi Strobel,92,Heidi,24,Jefferson City,Missouri,ENTJ,13,36,12,12th voted out,5th jury member,Jaburu,Tambaqui,,Jacaré,3,0,Heidi,1978-10-29,,Female,,,Gym Teacher
+Survivor: The Amazon,6,Christy Smith,91,Christy,24,Basalt,Colorado,INFP,12,33,11,11th voted out,4th jury member,Jaburu,Tambaqui,,Jacaré,9,0,Christy,1978-09-13,,Female,,,Children's Adventure Guide
+Survivor: The Amazon,6,Alex Bell,90,Alex,32,Los Angeles,California,ENFJ,11,30,10,10th voted out,3rd jury member,Tambaqui,Jaburu,,Jacaré,6,0,Alex,1970-05-16,,Male,,,Triathlon Coach
+Survivor: The Amazon,6,Deena Bennett,89,Deena,35,Riverside,California,ENTJ,9,27,9,9th voted out,2nd jury member,Jaburu,Jaburu,,Jacaré,6,1,Deena,1967-02-12,,Female,,Hispanic or Latino,Deputy District Attorney
+Survivor: The Amazon,6,Dave Johnson,88,Dave,23,Pasadena,California,ISTJ,8,24,8,8th voted out,1st jury member,Tambaqui,Tambaqui,,Jacaré,8,0,Dave,1979-01-16,,Male,,,Rocket Scientist
+Survivor: The Amazon,6,Roger Sexton,87,Roger,56,Valencia,California,ISTJ,7,21,7,7th voted out,,Tambaqui,Tambaqui,,Jacaré,11,0,Roger,1946-09-26,,Male,,,Construction Company V.P.
+Survivor: The Amazon,6,Shawna Mitchell,86,Shawna,23,Los Angeles,California,ENFP,6,18,6,6th voted out,,Jaburu,Jaburu,,,6,0,Shawna,1979-07-28,,Female,,,Retail Saleswoman
+Survivor: The Amazon,6,Jeanne Hebert,85,Jeanne,40,North Attleboro,Massachusetts,ISTJ,5,15,5,5th voted out,,Jaburu,Tambaqui,,,5,0,Jeanne,1962-01-06,,Female,,,Marketing Director
+Survivor: The Amazon,6,JoAnna Ward,84,JoAnna,31,Orangeburg,South Carolina,ISTJ,4,12,4,4th voted out,,Jaburu,,,,4,0,JoAnna,1971-04-29,,Female,Black,,Guidance Counselor
+Survivor: The Amazon,6,Daniel Lue,83,Daniel,26,Houston,Texas,INFP,3,9,3,3rd voted out,,Tambaqui,,,,7,0,Daniel,1975-11-29,,Male,Asian,Chinese American,Tax Accountant
+Survivor: The Amazon,6,Janet Koth,82,Janet,46,Manchester,Missouri,ISFJ,2,6,2,2nd voted out,,Jaburu,,,,5,0,Janet,1955-11-18,,Female,,,Homemaker
+Survivor: The Amazon,6,Ryan Aiken,81,Ryan,23,Ellicott City,Maryland,ESFP,1,3,1,1st voted out,,Tambaqui,,,,4,0,Ryan,1979-02-13,,Male,,,Model
+Survivor: Thailand,5,Brian Heidik,80,Brian,34,Quartz Hill,California,ISTP,15,39,16,Sole Survivor,,Chuay Gahn,,,Chuay Jai,0,3,Brian,1968-03-09,,Male,,,Used Car Salesman
+Survivor: Thailand,5,Clay Jordan,79,Clay,46,Monroe,Louisiana,ESTP,15,39,15,Runner-up,,Chuay Gahn,,,Chuay Jai,3,1,Clay,1955-12-30,,Male,,,Restaurant Owner
+Survivor: Thailand,5,Jan Gentry,78,Jan,53,Tampa,Florida,ENFP,14,38,14,14th voted out,7th jury member,Chuay Gahn,,,Chuay Jai,5,0,Jan,1948-10-31,,Female,,,Teacher
+Survivor: Thailand,5,Helen Glover,77,Helen,47,Middletown,Rhode Island,ISTJ,14,37,13,13th voted out,6th jury member,Chuay Gahn,,,Chuay Jai,5,1,Helen,1955-04-28,,Female,,,Navy Swim Instructor
+Survivor: Thailand,5,Ted Rogers Jr.,76,Ted,37,Durham,North Carolina,ESTP,13,36,12,12th voted out,5th jury member,Chuay Gahn,,,Chuay Jai,7,1,Ted,1964-12-28,,Male,Black,,Software Development Manager
+Survivor: Thailand,5,Jake Billingsley,75,Jake,60,McKinney,Texas,ISFJ,12,33,11,11th voted out,4th jury member,Sook Jai,,,Chuay Jai,7,0,Jake,1941-08-21,,Male,,,Land Broker
+Survivor: Thailand,5,Penny Ramsey,74,Penny,27,Plano,Texas,ESFJ,10,30,10,10th voted out,3rd jury member,Sook Jai,,,Chuay Jai,5,0,Penny,1975-04-24,,Female,,,Pharmaceutical Sales
+Survivor: Thailand,5,Ken Stafford,73,Ken,30,Brooklyn,New York,ESTJ,9,27,9,9th voted out,2nd jury member,Sook Jai,,,Chuay Jai,6,0,Ken,1972-06-20,,Male,,,NYC Police Officer
+Survivor: Thailand,5,Erin Collins,72,Erin,26,Austin,Texas,ESFP,8,24,8,8th voted out,1st jury member,Sook Jai,,,,3,0,Erin,1976-01-07,,Female,,,Real Estate Agent
+Survivor: Thailand,5,Shii Ann Huang,71,Shii Ann,28,New York City,New York,INTJ,7,21,7,7th voted out,,Sook Jai,,,,10,0,Shii Ann,1974-01-24,,Female,Asian,Taiwanese American,Executive Recruiter
+Survivor: Thailand,5,Robert Zbacnik,70,Robb,23,Scottsdale,Arizona,ESFP,6,18,6,6th voted out,,Sook Jai,,,,5,0,Robb,1978-09-12,,Male,,,Bartender
+Survivor: Thailand,5,Stephanie Dill,69,Stephanie,29,Ozark,Arkansas,ISTJ,5,15,5,5th voted out,,Sook Jai,,,,5,0,Stephanie,1972-11-15,,Female,,,Firefighter
+Survivor: Thailand,5,Ghandia Johnson,68,Ghandia,33,Denver,Colorado,ESFP,4,12,4,4th voted out,,Chuay Gahn,,,,5,0,Ghandia,1969-01-03,,Female,Black,,Legal Secretary
+Survivor: Thailand,5,Jed Hildebrand,67,Jed,25,Dallas,Texas,ISFP,3,9,3,3rd voted out,,Sook Jai,,,,5,0,Jed,1976-12-05,,Male,,,Dental Student
+Survivor: Thailand,5,Tanya Vance,66,Tanya,27,Gray,Tennessee,ESTJ,2,6,2,2nd voted out,,Chuay Gahn,,,,5,0,Tanya,1974-11-29,,Female,,,Social Worker
+Survivor: Thailand,5,John Raymond,65,John,40,Slidell,Louisiana,ENFP,1,3,1,1st voted out,,Chuay Gahn,,,,6,0,John,1962-02-21,,Male,,,Pastor
+Survivor: Marquesas,4,Vecepia Towery,64,Vecepia,36,Hayward,California,ISTJ,15,39,16,Sole Survivor,,Maraamu,Rotu,,Soliantu,2,2,Vecepia,1965-12-09,,Female,Black,,Office Manager
+Survivor: Marquesas,4,Neleh Dennis,63,Neleh,21,Layton,Utah,ENFP,15,39,15,Runner-up,,Rotu,Maraamu,,Soliantu,4,1,Neleh,1980-02-19,,Female,,,Student
+Survivor: Marquesas,4,Kathy Vavrick-O'Brien,62,Kathy,46,Burlington,Vermont,ESFJ,14,38,14,13th voted out,7th jury member,Rotu,Maraamu,,Soliantu,5,2,Kathy,1955-01-06,,Female,,,Real Estate Agent
+Survivor: Marquesas,4,Paschal English,61,Paschal,56,Thomaston,Georgia,ISFJ,14,37,13,Eliminated,6th jury member,Rotu,Maraamu,,Soliantu,0,0,Paschal,1945-03-05,,Male,,,Judge
+Survivor: Marquesas,4,Sean Rector,60,Sean,30,Los Angeles,California,ENTP,13,36,12,12th voted out,5th jury member,Maraamu,Rotu,,Soliantu,7,0,Sean,1971-08-20,,Male,Black,,Teacher
+Survivor: Marquesas,4,Robert DeCanio,59,Robert,38,College Point,New York,ISTJ,12,33,11,11th voted out,4th jury member,Rotu,Rotu,,Soliantu,6,1,Robert,1963-06-19,,Male,,,Limousine Driver
+Survivor: Marquesas,4,Tammy Leitner,58,Tammy,29,Mesa,Arizona,ENFJ,11,30,10,10th voted out,3rd jury member,Rotu,Rotu,,Soliantu,5,2,Tammy,1972-07-03,,Female,,,Crime Reporter
+Survivor: Marquesas,4,Zoe Zanidakis,57,Zoe,35,Monhegan,Maine,ISTJ,10,27,9,9th voted out,2nd jury member,Rotu,Rotu,,Soliantu,8,0,Zoe,1966-03-17,,Female,,,Fishing Boat Captain
+Survivor: Marquesas,4,John Carroll,56,John,36,Omaha,Nebraska,ENTJ,8,24,8,8th voted out,1st jury member,Rotu,Rotu,,Soliantu,8,0,John,1965-06-14,,Male,,,Registered Nurse
+Survivor: Marquesas,4,Rob Mariano,55,Boston Rob,25,Canton,Massachusetts,ESTJ,7,21,7,7th voted out,,Maraamu,Rotu,,Soliantu,8,0,Boston Rob,1975-12-25,,Male,,,Construction Worker
+Survivor: Marquesas,4,Gina Crews,54,Gina,28,Gainesville,Florida,ISFJ,6,18,6,6th voted out,,Maraamu,Maraamu,,,3,0,Gina,1973-02-07,,Female,,,Nature Guide
+Survivor: Marquesas,4,Gabriel Cade,53,Gabriel,23,Hollywood,California,INFP,5,15,5,5th voted out,,Rotu,Rotu,,,7,0,Gabriel,1978-07-01,,Male,,,Bartender
+Survivor: Marquesas,4,Sarah Jones,52,Sarah,24,Newport Beach,California,ISFP,4,12,4,4th voted out,,Maraamu,Maraamu,,,11,0,Sarah,1977-08-11,,Female,,,Account Manager
+Survivor: Marquesas,4,Hunter Ellis,51,Hunter,33,La Jolla,California,ESTJ,3,9,3,3rd voted out,,Maraamu,,,,4,0,Hunter,1968-07-05,,Male,,,Former Navy Fighter Pilot
+Survivor: Marquesas,4,Patricia Jackson,50,Patricia,49,Lugoff,South Carolina,ISFJ,2,6,2,2nd voted out,,Maraamu,,,,5,0,Patricia,1952-04-08,,Female,,,Truck Assembler
+Survivor: Marquesas,4,Peter Harkey,49,Peter,44,Millis,Massachusetts,ENFP,1,3,1,1st voted out,,Maraamu,,,,5,0,Peter,1956-01-17,,Male,,,Bowling Alley Owner
+Survivor: Africa,3,Ethan Zohn,48,Ethan,27,Lexington,Massachusetts,ISFP,15,39,16,Sole Survivor,,Boran,Boran,,Moto Maji,0,1,Ethan,1973-11-12,,Male,White,Jewish,Professional Soccer Player;Social Entrepreneur/Keynote Speaker
+Survivor: Africa,3,Kim Johnson,47,Kim J.,56,Oyster Bay,New York,ISFJ,15,39,15,Runner-up,,Boran,Boran,,Moto Maji,0,2,Kim J.,1944-09-18,,Female,,,Retired Teacher
+Survivor: Africa,3,Lex van den Berghe,46,Lex,38,Santa Cruz,California,ENTJ,14,38,14,14th voted out,7th jury member,Boran,Samburu,,Moto Maji,10,3,Lex,1963-06-18,,Male,,,Marketing Manager
+Survivor: Africa,3,Tom Buchanan,45,Tom,45,Rich Valley,Virginia,ESTP,14,37,13,13th voted out,6th jury member,Boran,Samburu,,Moto Maji,9,1,Tom,1955-10-30,,Male,,,Goat Farmer
+Survivor: Africa,3,Teresa Cooper,44,Teresa,42,Jackson,Georgia,ENFP,13,36,12,12th voted out,5th jury member,Samburu,Boran,,Moto Maji,4,1,Teresa,1959-05-05,,Female,,,Flight Attendant
+Survivor: Africa,3,Kim Powers,43,Kim P.,29,Conshohocken,Pennsylvania,INFP,12,33,11,11th voted out,4th jury member,Samburu,Samburu,,Moto Maji,4,0,Kim P.,1971-12-03,,Female,,,Freelance Marketer
+Survivor: Africa,3,Frank Garrison,42,Frank,43,Odessa,New York,ISTJ,11,30,10,10th voted out,3rd jury member,Samburu,Boran,,Moto Maji,9,0,Frank,1958-07-22,,Male,,,Telephone Technician
+Survivor: Africa,3,Brandon Quinton,41,Brandon,25,Dallas,Texas,ENFP,10,27,9,9th voted out,2nd jury member,Samburu,Samburu,,Moto Maji,6,0,Brandon,1976-01-22,,Male,,,Bartender
+Survivor: Africa,3,Kelly Goldsmith,40,Kelly,22,San Diego,California,ENTP,9,24,8,8th voted out,1st jury member,Boran,Samburu,,Moto Maji,5,0,Kelly,1979-04-27,,Female,,,Behavioral Research Analyst
+Survivor: Africa,3,Clarence Black,39,Clarence,24,Detroit,Michigan,ISTP,7,21,7,7th voted out,,Boran,Boran,,Moto Maji,12,0,Clarence,1976-12-21,,Male,Black,,Basketball Coach
+Survivor: Africa,3,Lindsey Richter,38,Lindsey,26,Portland,Oregon,ESFP,6,18,6,6th voted out,,Samburu,Samburu,,,12,0,Lindsey,1974-08-31,,Female,,,Advertising Executive
+Survivor: Africa,3,Silas Gaither,37,Silas,23,Los Angeles,California,ESTJ,5,15,5,5th voted out,,Samburu,Boran,,,8,0,Silas,1978-01-28,,Male,,,Bartender
+Survivor: Africa,3,Linda Spencer,36,Linda,44,Boston,Massachusetts,ESFJ,4,12,4,4th voted out,,Samburu,,,,4,0,Linda,1957-01-01,,Female,Black,,Career Counselor
+Survivor: Africa,3,Carl Bilancione,35,Carl,46,Winter Springs,Florida,ESTJ,3,9,3,3rd voted out,,Samburu,,,,7,0,Carl,1955-06-20,,Male,,,Dentist
+Survivor: Africa,3,Jessie Camacho,34,Jessie,26,Orlando,Florida,ISFP,2,6,2,2nd voted out,,Boran,,,,5,0,Jessie,1974-09-24,,Female,,Hispanic or Latino,Deputy Sheriff
+Survivor: Africa,3,Diane Ogden,33,Diane,42,Lincoln,Nebraska,ESTP,1,3,1,1st voted out,,Boran,,,,6,0,Diane,1959-04-27,,Female,,,U.S. Mail Carrier
+Survivor: The Australian Outback,2,Tina Wesson,32,Tina,40,Knoxville,Tennessee,ESFJ,16,42,16,Sole Survivor,,Ogakor,,,Barramundi,0,0,Tina,1960-12-26,,Female,,,Personal Nurse;Motivational Speaker
+Survivor: The Australian Outback,2,Colby Donaldson,31,Colby,26,Dallas,Texas,ISTP,16,42,15,Runner-up,,Ogakor,,,Barramundi,9,5,Colby,1974-04-01,,Male,,,Auto Customizer
+Survivor: The Australian Outback,2,Keith Famie,30,Keith,40,West Bloomfield,Michigan,ESTJ,15,41,14,13th voted out,7th jury member,Ogakor,,,Barramundi,10,2,Keith,1960-02-11,,Male,,,Chef
+Survivor: The Australian Outback,2,Elisabeth Filarski,29,Elisabeth,23,Newton,Massachusetts,INFP,14,39,13,12th voted out,6th jury member,Kucha,,,Barramundi,5,0,Elisabeth,1977-05-28,,Female,,,Footwear Designer
+Survivor: The Australian Outback,2,Rodger Bingham,28,Rodger,53,Crittenden,Kentucky,ISFJ,13,36,12,11th voted out,5th jury member,Kucha,,,Barramundi,5,0,Rodger,1947-07-05,,Male,,,Teacher/Farmer
+Survivor: The Australian Outback,2,Amber Brkich,27,Amber,22,Beaver,Pennsylvania,ISFP,12,33,11,10th voted out,4th jury member,Ogakor,,,Barramundi,6,0,Amber,1978-08-11,,Female,,,Administrative Assistant;Director of Marketing and Communications
+Survivor: The Australian Outback,2,Nick Brown,26,Nick,23,Steilacoom,Washington,ISTJ,11,30,10,9th voted out,3rd jury member,Kucha,,,Barramundi,4,1,Nick,1977-04-02,,Male,Black,,Harvard Law Student
+Survivor: The Australian Outback,2,Jerri Manthey,25,Jerri,30,Los Angeles,California,ESFP,10,27,9,8th voted out,2nd jury member,Ogakor,,,Barramundi,12,0,Jerri,1970-09-05,,Female,,,Aspiring Actress
+Survivor: The Australian Outback,2,Alicia Calaway,24,Alicia,32,Manhattan,New York,ESTJ,8,24,8,7th voted out,1st jury member,Kucha,,,Barramundi,5,0,Alicia,1968-05-01,,Female,Black,,Personal Trainer
+Survivor: The Australian Outback,2,Jeff Varner,23,Jeff,34,Manhattan,New York,ENFP,7,21,7,6th voted out,,Kucha,,,Barramundi,11,0,Jeff,1966-04-16,,Male,,,Internet Projects Manager
+Survivor: The Australian Outback,2,Michael Skupin,22,Michael,38,White Lake,Michigan,ESFJ,6,17,6,Medically evacuated,,Kucha,,,,0,0,Michael,1962-01-29,,Male,,,Software Publisher;Part-Time Professional Speaker
+Survivor: The Australian Outback,2,Kimmi Kappenberg,21,Kimmi,27,Ronkonkoma,New York,ENFP,5,15,5,5th voted out,,Kucha,,,,6,0,Kimmi,1972-11-11,,Female,,,Bartender
+Survivor: The Australian Outback,2,Mitchell Olson,20,Mitchell,23,Union City,New Jersey,ENFP,4,12,4,4th voted out,,Ogakor,,,,6,0,Mitchell,1977-03-17,,Male,,,Singer/Songwriter
+Survivor: The Australian Outback,2,Maralyn Hershey,19,Maralyn,51,Wakefield,Virginia,ESTP,3,9,3,3rd voted out,,Ogakor,,,,5,0,Maralyn,1949-01-24,,Female,,,Retired Police Officer
+Survivor: The Australian Outback,2,Kel Gleason,18,Kel,32,Fort Hood,Texas,ISTJ,2,6,2,2nd voted out,,Ogakor,,,,7,0,Kel,1968-01-05,,Male,,Hispanic or Latino,Army Intelligence Officer
+Survivor: The Australian Outback,2,Debb Eaton,17,Debb,45,Milan,New Hampshire,ISFP,1,3,1,1st voted out,,Kucha,,,,7,0,Debb,1955-06-11,,Female,,,Corrections Officer
+Survivor: Borneo,1,Richard Hatch,16,Richard,39,Newport,Rhode Island,ENTP,14,39,16,Sole Survivor,,Tagi,,,Rattana,6,1,Richard,1961-04-08,,Male,,,Corporate Trainer
+Survivor: Borneo,1,Kelly Wiglesworth,15,Kelly,22,Kernville,California,ISFP,14,39,15,Runner-up,,Tagi,,,Rattana,0,4,Kelly,1977-06-24,,Female,,,River Guide
+Survivor: Borneo,1,Rudy Boesch,14,Rudy,72,Virginia Beach,Virginia,ISTJ,13,38,14,14th voted out,7th jury member,Tagi,,,Rattana,8,1,Rudy,1928-01-20,2019-11-01,Male,,,Retired Navy SEAL
+Survivor: Borneo,1,Susan Hawk,13,Sue,38,Palmyra,Wisconsin,ESTP,13,37,13,13th voted out,6th jury member,Tagi,,,Rattana,7,0,Sue,1961-08-17,,Female,,,Truck Driver
+Survivor: Borneo,1,Sean Kenniff,12,Sean,30,Carle Place,New York,INTP,12,36,12,12th voted out,5th jury member,Tagi,,,Rattana,9,0,Sean,1969-11-27,,Male,,,Doctor
+Survivor: Borneo,1,Colleen Haskell,11,Colleen,23,Miami Beach,Florida,INFP,11,33,11,11th voted out,4th jury member,Pagong,,,Rattana,7,0,Colleen,1976-12-06,,Female,,,Student
+Survivor: Borneo,1,Gervase Peterson,10,Gervase,30,Willingboro,New Jersey,ESTP,10,30,10,10th voted out,3rd jury member,Pagong,,,Rattana,6,1,Gervase,1969-11-02,,Male,Black,,YMCA Basketball Coach;Cigar Lounge Owner
+Survivor: Borneo,1,Jenna Lewis,9,Jenna,22,Franklin,New Hampshire,ENFP,9,27,9,9th voted out,2nd jury member,Pagong,,,Rattana,11,0,Jenna L.,1977-07-16,,Female,,,Student
+Survivor: Borneo,1,Greg Buis,8,Greg,24,Gold Hill,Colorado,INTP,8,24,8,8th voted out,1st jury member,Pagong,,,Rattana,6,1,Greg,1975-12-31,,Male,,,Ivy League Graduate
+Survivor: Borneo,1,Gretchen Cordy,7,Gretchen,38,Clarksville,Tennessee,ESFJ,7,21,7,7th voted out,,Pagong,,,Rattana,4,0,Gretchen,1962-02-07,,Female,,,Teacher
+Survivor: Borneo,1,Joel Klug,6,Joel,27,Sherwood,Arkansas,ESTJ,6,18,6,6th voted out,,Pagong,,,,4,0,Joel,1972-04-13,,Male,,,Health Club Consultant
+Survivor: Borneo,1,Dirk Been,5,Dirk,23,Spring Green,Wisconsin,ISFP,5,15,5,5th voted out,,Tagi,,,,4,0,Dirk,1976-06-15,,Male,,,Dairy Farmer
+Survivor: Borneo,1,Ramona Gray,4,Ramona,29,Edison,New Jersey,ISTJ,4,12,4,4th voted out,,Pagong,,,,6,0,Ramona,1971-01-20,,Female,Black,,Biochemist/Chemist
+Survivor: Borneo,1,Stacey Stillman,3,Stacey,27,San Francisco,California,ENTJ,3,9,3,3rd voted out,,Tagi,,,,6,0,Stacey,1972-08-11,,Female,,,Attorney
+Survivor: Borneo,1,B.B. Andersen,2,B.B.,64,Mission Hills,Kansas,ESTJ,2,6,2,2nd voted out,,Pagong,,,,6,0,B.B.,1936-01-18,2013-10-29,Male,,,Real Estate Developer
+Survivor: Borneo,1,Sonja Christopher,1,Sonja,63,Walnut Creek,California,ENFP,1,3,1,1st voted out,,Tagi,,,,4,0,Sonja,1937-01-28,,Female,,,Musician
