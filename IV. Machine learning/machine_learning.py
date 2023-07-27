@@ -2,6 +2,8 @@
 24 July 2023
 Econ 890 session V: machine learning
 
+Material based on "Deep Learning with Python" by Francois Chollet
+
 required packages:
 --pandas
 --numpy
