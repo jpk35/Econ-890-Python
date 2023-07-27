@@ -46,7 +46,7 @@ debug = True
 ########################################################################################################################
 
 # import data
-root = r'C:\Users\jpkad\Dropbox\RA work 2022\DEAL\course_iv'
+root = r'C:\Users\jpkad\Dropbox\econ-890_machine_learning'
 df = pd.read_csv(os.path.join(root, 'text_data_train.csv'))
 df['text'] = df['text'].astype(str)
 
